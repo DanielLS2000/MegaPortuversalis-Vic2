@@ -4985,98 +4985,98 @@
 570 = {
 	soldiers=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 1534
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 1950
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 190
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 25
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 334
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 23949
 	}
 
 	soldiers=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 2034
 	}
 
 	artisans=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 7119
 	}
 
 	clergymen=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 693
 	}
 
 	bureaucrats=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 93
 	}
 
 	officers=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 1217
 	}
 
 	farmers=
 	{
-		culture = south_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 25748
 	}
@@ -5085,98 +5085,98 @@
 571 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 3625
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 1288
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 224
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 59
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 1079
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 59033
 	}
 
 	soldiers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 4560
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 4530
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 787
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 207
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 107
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 3793
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 68011
 	}
