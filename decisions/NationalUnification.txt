@@ -537,6 +537,7 @@ political_decisions = {
             }
             change_tag = GER
             add_accepted_culture = north_german
+	    add_accepted_culture = dynamic-swabian-culture-num1
             add_accepted_culture = south_german
             random_owned = { limit = { owner = { accepted_culture = french } } owner = { remove_accepted_culture = french } }
             random_owned = { limit = { owner = { accepted_culture = polish } } owner = { remove_accepted_culture = polish } }
@@ -1058,9 +1059,9 @@ political_decisions = {
                 change_province_name = "Kolmar"
             }
             409 = {
-                change_province_name = "Straﬂburg"
+                change_province_name = "Stra√üburg"
                 state_scope = {
-                    change_region_name = "Elsaﬂ-Lothringen"
+                    change_region_name = "Elsa√ü-Lothringen"
                 }
             }
             prestige = 5
