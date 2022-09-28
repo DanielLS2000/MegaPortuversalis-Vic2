@@ -1,0 +1,12 @@
+owner=LOT
+controller=LOT
+add_core=LOT
+trade_goods = iron
+life_rating = 35
+fort = 1
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

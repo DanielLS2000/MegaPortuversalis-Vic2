@@ -1,0 +1,8 @@
+owner=PER
+controller=PER
+add_core=PER
+add_core=TKS
+add_core=TRX
+trade_goods = iron
+life_rating = 35
+terrain = dryhills

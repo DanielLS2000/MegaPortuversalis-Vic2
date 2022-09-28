@@ -1,0 +1,88 @@
+2125 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 242
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 22398
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 971
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 612
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 158
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 31
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 157
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+}

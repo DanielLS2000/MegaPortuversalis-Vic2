@@ -1,0 +1,179 @@
+2213 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 6261
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 175
+	}
+
+	slaves=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 72123
+	}
+
+	artisans=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 10975
+	}
+
+	aristocrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 1975
+	}
+
+	clergymen=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 1017
+	}
+
+	soldiers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 2016
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 296
+	}
+
+	officers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 164
+	}
+
+}
+2215 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4196
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 117
+	}
+
+	slaves=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 26507
+	}
+
+	artisans=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 4114
+	}
+
+	soldiers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 740
+	}
+
+	clergymen=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 382
+	}
+
+	aristocrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 370
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 110
+	}
+
+	officers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 61
+	}
+
+	slaves=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = protestant
+		size= 22538
+	}
+
+	soldiers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = protestant
+		size= 631
+	}
+
+	artisans=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = protestant
+		size= 3339
+	}
+
+	clergymen=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = protestant
+		size= 310
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = protestant
+		size= 91
+	}
+
+	officers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = protestant
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = protestant
+		size= 300
+	}
+
+}

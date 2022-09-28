@@ -1,0 +1,701 @@
+1848 = {
+	slaves=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 104
+	}
+
+	soldiers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 122
+	}
+
+	artisans=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 306
+	}
+
+	clergymen=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 3756
+	}
+
+	slaves=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 263
+	}
+
+	soldiers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 308
+	}
+
+	artisans=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 1847
+	}
+
+	clergymen=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 198
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 221
+	}
+
+	farmers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 8117
+	}
+
+	slaves=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 1213
+	}
+
+	slaves=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 96
+	}
+
+	soldiers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 661
+	}
+
+	clergymen=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 2977
+	}
+
+}
+1849 = {
+	soldiers=
+	{
+		culture = beja
+		religion = coptic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = coptic
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = coptic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = coptic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = coptic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = coptic
+		size= 1558
+	}
+
+	soldiers=
+	{
+		culture = beja
+		religion = catholic
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = beja
+		religion = catholic
+		size= 849
+	}
+
+	clergymen=
+	{
+		culture = beja
+		religion = catholic
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = beja
+		religion = catholic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = beja
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = beja
+		religion = catholic
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = beja
+		religion = catholic
+		size= 4142
+	}
+
+}
+1850 = {
+	slaves=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 205
+	}
+
+	soldiers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = coptic
+		size= 1247
+	}
+
+	slaves=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 518
+	}
+
+	soldiers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 116
+	}
+
+	artisans=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 695
+	}
+
+	clergymen=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 74
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = dynamic-amhara-culture-num3
+		religion = catholic
+		size= 2635
+	}
+
+	slaves=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 66
+	}
+
+	soldiers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = coptic
+		size= 403
+	}
+
+	slaves=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 189
+	}
+
+	soldiers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 249
+	}
+
+	clergymen=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = dynamic-amhara-culture-num2
+		religion = catholic
+		size= 966
+	}
+
+}
+1851 = {
+	soldiers=
+	{
+		culture = afar
+		religion = sunni
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = sunni
+		size= 29
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = sunni
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = sunni
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = sunni
+		size= 2789
+	}
+
+	soldiers=
+	{
+		culture = afar
+		religion = catholic
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = catholic
+		size= 133
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = catholic
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = afar
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = afar
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = catholic
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = catholic
+		size= 4929
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 281
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = catholic
+		size= 2484
+	}
+
+}

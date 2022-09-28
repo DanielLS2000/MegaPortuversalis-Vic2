@@ -1,0 +1,144 @@
+2219 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 420
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 60
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 4020
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 209
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 88
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 38
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 228
+	}
+
+}
+2220 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 74
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 707
+	}
+
+	artisans=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 31
+	}
+
+	soldiers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+}

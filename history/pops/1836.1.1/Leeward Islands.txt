@@ -1,0 +1,344 @@
+2224 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 639
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 17
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 5441
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 925
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 85
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 330
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 10
+	}
+
+}
+2225 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 161
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 1373
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 226
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 13
+	}
+
+}
+2226 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 111
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	slaves=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 845
+	}
+
+	artisans=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 143
+	}
+
+	soldiers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	slaves=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 202
+	}
+
+	soldiers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 33
+	}
+
+	clergymen=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = protestant
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = british_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+}
+2227 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 730
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 8
+	}
+
+	slaves=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 5771
+	}
+
+	artisans=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 1002
+	}
+
+	aristocrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 177
+	}
+
+	officers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 14
+	}
+
+}

@@ -1,0 +1,738 @@
+#Sphere of Influence
+
+AFG = {
+	value = 152
+	influence_value = 25
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = -91
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 24
+	level = 2
+}
+EGY = {
+	value = -73
+	level = 2
+}
+ENG = {
+	value = -6
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 24
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAM = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = -13
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 24
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 24
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 181
+	influence_value = 32
+	level = 4
+}
+PNJ = {
+	value = 50
+	level = 3
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -76
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SOL = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 21
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 24
+	level = 2
+}
+X17 = {
+	value = 174
+	influence_value = 31
+	level = 3
+}
+X23 = {
+	value = 24
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Togtekin Sabiri"
+	date="1784.9.22"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Alah-Verdi Sabiri"
+	date="1800.11.24"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Togtekin III Anushirawan"
+	date="1824.7.10"
+	type=land
+	personality="stalwart"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Tughril-Beg Fatemi"
+	date="1803.5.12"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Togtekin Ansari"
+	date="1808.7.20"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Gerhard Qazai"
+	date="1822.5.11"
+	type=land
+	personality="resolute"
+	background="bootlicker"
+}
+
+leader = {
+	name="Bozorg Ahrari"
+	date="1822.5.21"
+	type=land
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Gerhard Sabet"
+	date="1822.5.22"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Ayeshah Fatemi"
+	date="1824.7.28"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Gerhard Ansari"
+	date="1824.8.31"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Gerhard Ansari"
+	date="1824.10.4"
+	type=land
+	personality="efficient"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Bozorg Qazai"
+	date="1824.11.1"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1141
+	regiment = {
+		name="1st Yazd Irregulars"
+		type=irregular
+		home=1130
+	}
+	regiment = {
+		name="1st Lengeh Irregulars"
+		type=irregular
+		home=1141
+	}
+	regiment = {
+		name="1st Birjand Artillery"
+		type=artillery
+		home=1148
+	}
+	regiment = {
+		name="1st Kangan Irregulars"
+		type=irregular
+		home=1138
+	}
+	regiment = {
+		name="1st Kabul Artillery"
+		type=artillery
+		home=1209
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1148
+	regiment = {
+		name="1st Ardabil Irregulars"
+		type=irregular
+		home=1112
+	}
+	regiment = {
+		name="1st Ardabil Artillery"
+		type=artillery
+		home=1112
+	}
+	regiment = {
+		name="1st Sabzevar Irregulars"
+		type=irregular
+		home=1149
+	}
+	regiment = {
+		name="1st Balkh Artillery"
+		type=artillery
+		home=1211
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1138
+	regiment = {
+		name="1st Bam Irregulars"
+		type=irregular
+		home=1143
+	}
+	regiment = {
+		name="1st Bojnurd Irregulars"
+		type=irregular
+		home=1150
+	}
+	regiment = {
+		name="2nd Birjand Artillery"
+		type=artillery
+		home=1148
+	}
+	regiment = {
+		name="1st Kashan Artillery"
+		type=artillery
+		home=1129
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1114
+	regiment = {
+		name="1st Kashan Irregulars"
+		type=irregular
+		home=1129
+	}
+	regiment = {
+		name="1st Gizab Irregulars"
+		type=irregular
+		home=2133
+	}
+	regiment = {
+		name="2nd Yazd Irregulars"
+		type=irregular
+		home=1130
+	}
+	regiment = {
+		name="1st Bam Artillery"
+		type=artillery
+		home=1143
+	}
+	regiment = {
+		name="1st Sirjan Artillery"
+		type=artillery
+		home=1139
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1222
+	ship = {
+		name="Karun"
+		type=frigate
+	}
+	ship = {
+		name="Aras"
+		type=frigate
+	}
+}
+
+army = {
+	name="Grand Company"
+	location=1114
+	regiment = {
+		name="1st Gorgan Irregulars"
+		type=irregular
+		home=1116
+	}
+	regiment = {
+		name="1st Ashkhabad Irregulars"
+		type=irregular
+		home=1204
+	}
+	regiment = {
+		name="2nd Gorgan Irregulars"
+		type=irregular
+		home=1116
+	}
+	regiment = {
+		name="2nd Ashkhabad Irregulars"
+		type=irregular
+		home=1204
+	}
+}
+
+army = {
+	name="Free Company"
+	location=1141
+	regiment = {
+		name="1st Shiraz Irregulars"
+		type=irregular
+		home=1135
+	}
+	regiment = {
+		name="2nd Shiraz Irregulars"
+		type=irregular
+		home=1135
+	}
+}
+
+army = {
+	name="Tabarestan Company"
+	location=1141
+	regiment = {
+		name="1st Birjand Irregulars"
+		type=irregular
+		home=1148
+	}
+	regiment = {
+		name="2nd Birjand Irregulars"
+		type=irregular
+		home=1148
+	}
+	regiment = {
+		name="3rd Birjand Irregulars"
+		type=irregular
+		home=1148
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=2133
+	regiment = {
+		name="3rd Shiraz Irregulars"
+		type=irregular
+		home=1135
+	}
+	regiment = {
+		name="4th Shiraz Irregulars"
+		type=irregular
+		home=1135
+	}
+	regiment = {
+		name="5th Shiraz Irregulars"
+		type=irregular
+		home=1135
+	}
+	regiment = {
+		name="6th Shiraz Irregulars"
+		type=irregular
+		home=1135
+	}
+	regiment = {
+		name="1st Kabul Irregulars"
+		type=irregular
+		home=1209
+	}
+	regiment = {
+		name="2nd Kabul Irregulars"
+		type=irregular
+		home=1209
+	}
+}
+
+army = {
+	name="Kurdish Company"
+	location=1148
+	regiment = {
+		name="1st Rasht Irregulars"
+		type=irregular
+		home=1113
+	}
+	regiment = {
+		name="2nd Rasht Irregulars"
+		type=irregular
+		home=1113
+	}
+}
+
+army = {
+	name="Crimean Company"
+	location=1138
+	regiment = {
+		name="1st Isfahan Irregulars"
+		type=irregular
+		home=1127
+	}
+	regiment = {
+		name="2nd Isfahan Irregulars"
+		type=irregular
+		home=1127
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2789
+	ship = {
+		name="Zab"
+		type=frigate
+	}
+	ship = {
+		name="Helmand"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1222
+	ship = {
+		name="1st Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chabahar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bahrain Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chabahar Clipper Transport"
+		type=clipper_transport
+	}
+}
+

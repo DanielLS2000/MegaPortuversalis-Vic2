@@ -1,0 +1,9 @@
+owner=EGY
+controller=EGY
+add_core=AJU
+add_core=EGY
+add_core=SOM
+trade_goods = fruit
+life_rating = 35
+terrain = savanna
+fort = 1

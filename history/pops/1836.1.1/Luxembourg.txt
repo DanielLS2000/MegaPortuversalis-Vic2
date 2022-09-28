@@ -1,0 +1,149 @@
+397 = {
+	soldiers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = catholic
+		size= 563
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = catholic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = catholic
+		size= 9847
+	}
+
+	soldiers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 432
+	}
+
+	artisans=
+	{
+		culture = flemish
+		religion = protestant
+		size= 2036
+	}
+
+	clergymen=
+	{
+		culture = flemish
+		religion = protestant
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 21
+	}
+
+	officers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = flemish
+		religion = protestant
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = flemish
+		religion = protestant
+		size= 13880
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 204
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 3685
+	}
+
+	clergymen=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 290
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 167
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 3258
+	}
+
+}

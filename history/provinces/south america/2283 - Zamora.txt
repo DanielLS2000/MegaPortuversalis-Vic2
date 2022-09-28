@@ -1,0 +1,7 @@
+owner=GCO
+controller=GCO
+add_core=QTO
+add_core=GCO
+trade_goods = timber
+life_rating = 33
+terrain = montane_forest

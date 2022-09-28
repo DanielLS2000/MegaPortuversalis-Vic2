@@ -1,0 +1,672 @@
+2337 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1278
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 262
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4
+	}
+
+}
+2338 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 315
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1213
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 262
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 4
+	}
+
+}
+2339 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 1379
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 627
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 20370
+	}
+
+	slaves=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 80
+	}
+
+	soldiers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 825
+	}
+
+	artisans=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 236
+	}
+
+	aristocrats=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 17
+	}
+
+	officers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 8743
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6383
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1197
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 479
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 335
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2011
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 118916
+	}
+
+}
+2340 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2571
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = catholic
+		size= 591
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = catholic
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = catholic
+		size= 35
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = catholic
+		size= 248
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 12302
+	}
+
+}
+2341 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4089
+	}
+
+	farmers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 25650
+	}
+
+	soldiers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 1310
+	}
+
+	aristocrats=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 213
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 111
+	}
+
+	officers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 68
+	}
+
+}
+2342 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 333
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2580
+	}
+
+	slaves=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 112
+	}
+
+	artisans=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 9
+	}
+
+	clergymen=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 2100
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 855
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 269
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 531
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15007
+	}
+
+}
+2343 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 597
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 21
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 538
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 2679
+	}
+
+}

@@ -1,0 +1,7 @@
+owner=GDW
+controller=GDW
+add_core=GDW
+add_core=HND
+trade_goods = coal
+life_rating = 28
+fort = 1

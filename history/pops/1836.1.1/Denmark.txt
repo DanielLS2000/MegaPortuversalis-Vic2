@@ -1,0 +1,1434 @@
+253 = {
+	soldiers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 696
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = protestant
+		size= 918
+	}
+
+}
+366 = {
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 264
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 241
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 166
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 25597
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 867
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 356
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 599
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 28210
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 1250
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 514
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 34
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 863
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 1019
+	}
+
+}
+367 = {
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 464
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 9423
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 538
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 335
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 10517
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 98
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 520
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 219
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 1041
+	}
+
+}
+368 = {
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 522
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 113
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 10611
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 670
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 405
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 13131
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 62
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 572
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 197
+	}
+
+}
+370 = {
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 732
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 261
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 24920
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 859
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 875
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 328
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 367
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 28168
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 135
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 1329
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 499
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 33
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 558
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 2207
+	}
+
+}
+371 = {
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 311
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 111
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 10602
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 365
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 372
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 140
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 11983
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 566
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 212
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 238
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 937
+	}
+
+}
+372 = {
+	soldiers=
+	{
+		culture = danish
+		religion = catholic
+		size= 708
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = catholic
+		size= 417
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = catholic
+		size= 24001
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 490
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 993
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 15611
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 4904
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 559
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 37
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 939
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 32838
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 192
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 7216
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 822
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 1381
+	}
+
+}
+373 = {
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 643
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 230
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 21879
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 809
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 303
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 340
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 23325
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 1157
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 434
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 29
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 486
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 718
+	}
+
+}
+374 = {
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 34
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 1607
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 130
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 2073
+	}
+
+}
+2557 = {
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 527
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 115
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = catholic
+		size= 10713
+	}
+
+	soldiers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 377
+	}
+
+	clergymen=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = dynamic-saxon-culture-num2
+		religion = protestant
+		size= 11366
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 587
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 220
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 1176
+	}
+
+}

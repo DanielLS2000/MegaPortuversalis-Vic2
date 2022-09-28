@@ -1,0 +1,8 @@
+owner=EGY
+controller=EGY
+add_core=AJU
+add_core=EGY
+add_core=SOM
+trade_goods = timber
+life_rating = 10
+terrain = dryhills

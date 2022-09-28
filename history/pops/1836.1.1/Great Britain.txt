@@ -1,0 +1,2903 @@
+266 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1397
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1995
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 648
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 90
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 105
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 419
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 45227
+	}
+
+}
+267 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1889
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 9834
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 913
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 127
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 149
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 590
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 54000
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 212
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 530
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 6733
+	}
+
+	soldiers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 44
+	}
+
+	artisans=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 367
+	}
+
+	clergymen=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 1099
+	}
+
+}
+268 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 2545
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3636
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1182
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 164
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 764
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 82427
+	}
+
+}
+269 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 2381
+	}
+
+	craftsmen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3647
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3624
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 337
+	}
+
+	clerks=
+	{
+		culture = scottish
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 75
+	}
+
+	capitalists=
+	{
+		culture = scottish
+		religion = catholic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 326
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 41180
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2954
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4523
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 12614
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1171
+	}
+
+	clerks=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 383
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 162
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 261
+	}
+
+	capitalists=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 149
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1135
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 40866
+	}
+
+}
+270 = {
+	soldiers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 442
+	}
+
+	artisans=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 3093
+	}
+
+	clergymen=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 287
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 40114
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 516
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 10322
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 958
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 133
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 619
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 38988
+	}
+
+}
+271 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3538
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 5384
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 500
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 69
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 485
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 66828
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4419
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 18833
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1749
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 242
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 390
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1695
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 68738
+	}
+
+}
+272 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 271
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 677
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 8573
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 723
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4999
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 464
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 64
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 19055
+	}
+
+	soldiers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 283
+	}
+
+	artisans=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 707
+	}
+
+	clergymen=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 64
+	}
+
+	farmers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 8954
+	}
+
+}
+273 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4737
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 14417
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1339
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 268
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 299
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1298
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 80622
+	}
+
+}
+274 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1302
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6510
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 604
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 84
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 586
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 37315
+	}
+
+}
+275 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 482
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6753
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 627
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 87
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 608
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 39619
+	}
+
+}
+276 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 628
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 8788
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 816
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 113
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 791
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 51556
+	}
+
+}
+277 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2419
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 9677
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3145
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 435
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 315
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3048
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 222896
+	}
+
+}
+278 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1987
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 7949
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2583
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 358
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 258
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2504
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 183082
+	}
+
+}
+279 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 567
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 7935
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 737
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 57
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 714
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 46591
+	}
+
+}
+280 = {
+	soldiers=
+	{
+		culture = english
+		religion = catholic
+		size= 2059
+	}
+
+	artisans=
+	{
+		culture = english
+		religion = catholic
+		size= 5148
+	}
+
+	clergymen=
+	{
+		culture = english
+		religion = catholic
+		size= 478
+	}
+
+	bureaucrats=
+	{
+		culture = english
+		religion = catholic
+		size= 96
+	}
+
+	officers=
+	{
+		culture = english
+		religion = catholic
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = english
+		religion = catholic
+		size= 463
+	}
+
+	farmers=
+	{
+		culture = english
+		religion = catholic
+		size= 65227
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2366
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 16979
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1577
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 315
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 255
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1528
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 61485
+	}
+
+}
+281 = {
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 1378
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3446
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 320
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 310
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 43672
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2313
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 15007
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1393
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 193
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1351
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 62100
+	}
+
+}
+282 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 5274
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 16051
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1490
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 206
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 332
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1445
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 89853
+	}
+
+}
+283 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 7357
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 22390
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2079
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 288
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 464
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2015
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 125334
+	}
+
+}
+284 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 7927
+	}
+
+	craftsmen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 24126
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2240
+	}
+
+	clerks=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 310
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 500
+	}
+
+	capitalists=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 192
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2171
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 126196
+	}
+
+}
+285 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4546
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 13836
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1285
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 178
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 287
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1245
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 77453
+	}
+
+}
+286 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 787
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 11016
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1023
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 205
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 991
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 64559
+	}
+
+}
+287 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1103
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 15445
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1434
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 287
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1390
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 90522
+	}
+
+}
+288 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 5803
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 17661
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1640
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 278
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 366
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1589
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 98810
+	}
+
+}
+289 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4812
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 14644
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1360
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 188
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 303
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1318
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 81976
+	}
+
+}
+290 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 12443
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1155
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 160
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 258
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1120
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 60309
+	}
+
+}
+291 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3820
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 11627
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1080
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 149
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 241
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1046
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 65084
+	}
+
+}
+292 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1801
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 25220
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2342
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 324
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 234
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2270
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 147954
+	}
+
+}
+293 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 730
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 10220
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 949
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 131
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 95
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 920
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 59955
+	}
+
+}
+294 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3759
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 11442
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1062
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 82
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 237
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1030
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 64116
+	}
+
+}
+295 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3827
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 11648
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1082
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 83
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 241
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1048
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 65272
+	}
+
+}
+296 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 13883
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1289
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 258
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1250
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 78225
+	}
+
+}
+297 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3028
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 15138
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1406
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 281
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 227
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1362
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 86683
+	}
+
+}
+298 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4472
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 13611
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1264
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 253
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 282
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1225
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 76116
+	}
+
+}
+299 = {
+	soldiers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 1169
+	}
+
+	artisans=
+	{
+		culture = welsh
+		religion = catholic
+		size= 2923
+	}
+
+	clergymen=
+	{
+		culture = welsh
+		religion = catholic
+		size= 271
+	}
+
+	bureaucrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 38
+	}
+
+	officers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = welsh
+		religion = catholic
+		size= 263
+	}
+
+	farmers=
+	{
+		culture = welsh
+		religion = catholic
+		size= 37052
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4717
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 26510
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2461
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 341
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 398
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2386
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 131660
+	}
+
+}
+300 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 22733
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 69316
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6752
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1350
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1091
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6544
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 407912
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = jewish
+		size= 3400
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 300
+	}
+
+}
+301 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4812
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 14646
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1360
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 188
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 303
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1318
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 81987
+	}
+
+}
+302 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4920
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 14975
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1390
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 278
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 310
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1348
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 83740
+	}
+
+}
+303 = {
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 12187
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1132
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 226
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1097
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 65059
+	}
+
+}
+304 = {
+	soldiers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = dynamic-scottish-culture-num1
+		religion = catholic
+		size= 4694
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 65
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 358
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 5854
+	}
+
+}
+419 = {
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 1383
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 2480
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 446
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 14042
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = protestant
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = protestant
+		size= 206
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = protestant
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = french
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = protestant
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = protestant
+		size= 180
+	}
+
+}
+1724 = {
+	soldiers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = catholic
+		size= 1707
+	}
+
+	soldiers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = scottish
+		religion = catholic
+		size= 127
+	}
+
+	clergymen=
+	{
+		culture = scottish
+		religion = catholic
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = scottish
+		religion = catholic
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = scottish
+		religion = catholic
+		size= 2007
+	}
+
+	soldiers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = icelandic
+		religion = catholic
+		size= 1281
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 96
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1505
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=SCA
+controller=SCA
+add_core=FRA
+add_core=JAP
+add_core=OTM
+add_core=SCA
+trade_goods = fruit
+life_rating = 35

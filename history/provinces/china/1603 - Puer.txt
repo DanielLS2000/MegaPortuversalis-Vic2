@@ -1,0 +1,8 @@
+owner=DAI
+controller=AVA
+add_core=CDL
+add_core=CHI
+add_core=DAI
+trade_goods = tea
+life_rating = 32
+fort = 1

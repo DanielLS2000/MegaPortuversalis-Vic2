@@ -1,0 +1,710 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -15
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = -8
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = -121
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 5
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 17
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAM = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -15
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 10
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 131
+	military_access = yes
+	influence_value = 20
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 20
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Enrique Campomanes"
+	date="1807.5.23"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Francisco de Zúñiga"
+	date="1807.7.27"
+	type=land
+	personality="chivalrous"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Sebasti0n Cagigal de la Vega"
+	date="1816.10.21"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Domingo Sastre"
+	date="1816.10.24"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Fausto Elhuyar"
+	date="1816.10.26"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Juan Bautista Pizarro"
+	date="1816.11.17"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Baltasar de Borja"
+	date="1820.5.29"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Enrique de Ripperdá"
+	date="1820.8.18"
+	type=sea
+	personality="resourceful"
+	background="artillerist"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2390
+	regiment = {
+		name="1st Curacó Infantry"
+		type=infantry
+		home=2395
+	}
+	regiment = {
+		name="1st Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="1st Santiago Artillery"
+		type=artillery
+		home=2324
+	}
+	regiment = {
+		name="1st Corrientes Infantry"
+		type=infantry
+		home=2356
+	}
+	regiment = {
+		name="1st Copiapó Artillery"
+		type=artillery
+		home=2322
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1714
+	regiment = {
+		name="2nd Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="1st San Rafael Infantry"
+		type=infantry
+		home=2390
+	}
+	regiment = {
+		name="1st Córdoba de Argentina Infantry"
+		type=infantry
+		home=2379
+	}
+	regiment = {
+		name="2nd Santiago Artillery"
+		type=artillery
+		home=2324
+	}
+	regiment = {
+		name="1st Córdoba de Argentina Artillery"
+		type=artillery
+		home=2379
+	}
+	regiment = {
+		name="1st Puerto Aisén Infantry"
+		type=infantry
+		home=2333
+	}
+}
+
+army = {
+	name="6th Army"
+	location=2334
+	regiment = {
+		name="1st Paraná Infantry"
+		type=infantry
+		home=2360
+	}
+	regiment = {
+		name="1st Cauquenes Infantry"
+		type=infantry
+		home=2330
+	}
+	regiment = {
+		name="1st Viedma Infantry"
+		type=infantry
+		home=2392
+	}
+	regiment = {
+		name="1st Valparaíso Cavalry"
+		type=cavalry
+		home=2325
+	}
+	regiment = {
+		name="1st Junín Artillery"
+		type=artillery
+		home=2349
+	}
+	regiment = {
+		name="1st Encarnación Artillery"
+		type=artillery
+		home=2341
+	}
+	regiment = {
+		name="3rd Buenos Aires Infantry"
+		type=infantry
+		home=2348
+	}
+	regiment = {
+		name="1st Valdivia Cavalry"
+		type=cavalry
+		home=2328
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2986
+	ship = {
+		name="ARA Azopardo"
+		type=frigate
+	}
+	ship = {
+		name="ARA Cervantes"
+		type=frigate
+	}
+	ship = {
+		name="ARA Espora"
+		type=frigate
+	}
+	ship = {
+		name="ARA Garay"
+		type=frigate
+	}
+	ship = {
+		name="ARA República"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2990
+	ship = {
+		name="ARA Hércules"
+		type=frigate
+	}
+	ship = {
+		name="ARA Heroína"
+		type=frigate
+	}
+	ship = {
+		name="ARA La Argentina"
+		type=frigate
+	}
+	ship = {
+		name="ARA La Libertad"
+		type=frigate
+	}
+	ship = {
+		name="ARA Robinson"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2348
+	ship = {
+		name="ARA América"
+		type=manowar
+	}
+	ship = {
+		name="ARA Aquíles"
+		type=manowar
+	}
+	ship = {
+		name="ARA Argentina"
+		type=manowar
+	}
+	ship = {
+		name="ARA Argonauta"
+		type=manowar
+	}
+	ship = {
+		name="ARA Murillo"
+		type=frigate
+	}
+	ship = {
+		name="ARA Parker"
+		type=frigate
+	}
+	ship = {
+		name="ARA Piedra Buena"
+		type=frigate
+	}
+	ship = {
+		name="ARA Presidente Sarmiento"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2765
+	ship = {
+		name="ARA Águila"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Apolo"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Atlántida"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Audaz"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Ceres"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Cóndor"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Cruel"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Delfín"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Eolo"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Esperanza"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Fénix"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Fidela"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Flora"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Hera"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Iris"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Lanza"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Minerva"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Minotauro"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Movimiento"
+		type=clipper_transport
+	}
+	ship = {
+		name="ARA Odisea"
+		type=clipper_transport
+	}
+}
+

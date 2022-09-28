@@ -1,0 +1,6 @@
+owner=GDW
+controller=GDW
+add_core=CHI
+add_core=GDW
+trade_goods = silk
+life_rating = 32

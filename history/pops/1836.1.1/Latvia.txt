@@ -1,0 +1,544 @@
+354 = {
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 458
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 158
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 319
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 56
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 838
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 50753
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 2075
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 800
+	}
+
+}
+355 = {
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 3431
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 3944
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 846
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 227
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 265
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 2118
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 110102
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 3875
+	}
+
+}
+356 = {
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 843
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 946
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 61
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 566
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 28897
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1525
+	}
+
+}
+357 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 328
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 223
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 12050
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 848
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 25
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 423
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 15350
+	}
+
+}
+358 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 326
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 214
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 6
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 109
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 11806
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 926
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 28
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 474
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 18150
+	}
+
+}
+359 = {
+	soldiers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 213
+	}
+
+	artisans=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 142
+	}
+
+	clergymen=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = latvian
+		religion = orthodox
+		size= 8104
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 357
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 616
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 19
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 327
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 12789
+	}
+
+}

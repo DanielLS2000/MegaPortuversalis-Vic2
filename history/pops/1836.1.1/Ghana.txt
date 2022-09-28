@@ -1,0 +1,802 @@
+1907 = {
+	slaves=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 6138
+	}
+
+	soldiers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 338
+	}
+
+	artisans=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 4726
+	}
+
+	clergymen=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 219
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 61
+	}
+
+	officers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 21809
+	}
+
+}
+1908 = {
+	slaves=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 2046
+	}
+
+	soldiers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 123
+	}
+
+	artisans=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 1719
+	}
+
+	clergymen=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 22
+	}
+
+	officers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 8115
+	}
+
+}
+1909 = {
+	slaves=
+	{
+		culture = akan
+		religion = sunni
+		size= 919
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = sunni
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = sunni
+		size= 102
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = sunni
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = sunni
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = sunni
+		size= 3969
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = shiite
+		size= 3126
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = shiite
+		size= 173
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = shiite
+		size= 795
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = shiite
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = shiite
+		size= 20
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = shiite
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = shiite
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = shiite
+		size= 12807
+	}
+
+}
+1910 = {
+	slaves=
+	{
+		culture = akan
+		religion = ibadi
+		size= 40496
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 5827
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = ibadi
+		size= 40791
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = ibadi
+		size= 1894
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = ibadi
+		size= 437
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 233
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = ibadi
+		size= 14685
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 186999
+	}
+
+}
+1911 = {
+	slaves=
+	{
+		culture = akan
+		religion = ibadi
+		size= 24779
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 7363
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = ibadi
+		size= 5259
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = ibadi
+		size= 855
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = ibadi
+		size= 197
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 210
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = ibadi
+		size= 2209
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 90609
+	}
+
+}
+1912 = {
+	slaves=
+	{
+		culture = akan
+		religion = ibadi
+		size= 10500
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 7896
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = ibadi
+		size= 19740
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = ibadi
+		size= 917
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = ibadi
+		size= 212
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 226
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = ibadi
+		size= 2369
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 99140
+	}
+
+}
+1913 = {
+	slaves=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 1236
+	}
+
+	soldiers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 1286
+	}
+
+	artisans=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 230
+	}
+
+	clergymen=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 9
+	}
+
+	officers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 20059
+	}
+
+	slaves=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 1710
+	}
+
+	soldiers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 1778
+	}
+
+	artisans=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 865
+	}
+
+	clergymen=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 32
+	}
+
+	officers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 363
+	}
+
+	farmers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 26828
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 520
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1465
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 55
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 615
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 5827
+	}
+
+}
+1915 = {
+	slaves=
+	{
+		culture = akan
+		religion = ibadi
+		size= 21717
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 5212
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = ibadi
+		size= 3723
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = ibadi
+		size= 605
+	}
+
+	bureaucrats=
+	{
+		culture = akan
+		religion = ibadi
+		size= 140
+	}
+
+	officers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 149
+	}
+
+	aristocrats=
+	{
+		culture = akan
+		religion = ibadi
+		size= 1564
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = ibadi
+		size= 59961
+	}
+
+}
+1916 = {
+	slaves=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 2159
+	}
+
+	soldiers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 553
+	}
+
+	artisans=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = ibadi
+		size= 6993
+	}
+
+	slaves=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 2985
+	}
+
+	soldiers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 764
+	}
+
+	artisans=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 372
+	}
+
+	clergymen=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 14
+	}
+
+	officers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 156
+	}
+
+	farmers=
+	{
+		culture = dynamic-aka-mali-culture-num1
+		religion = sunni
+		size= 9281
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = sunni
+		size= 872
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 223
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 630
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 24
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 1847
+	}
+
+}

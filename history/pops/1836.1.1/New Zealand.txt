@@ -1,0 +1,832 @@
+2509 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1016
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3742
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 246
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1033
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+}
+2510 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 408
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1496
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 87
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = protestant
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = protestant
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = protestant
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = protestant
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = protestant
+		size= 641
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+}
+2511 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 424
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2032
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 104
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+}
+2512 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 416
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2041
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 104
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+}
+2513 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 53
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 611
+	}
+
+}
+2514 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 53
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 611
+	}
+
+}
+2515 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 303
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1219
+	}
+
+}
+2516 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 506
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2035
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 423
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 4
+	}
+
+}
+2524 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 253
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1276
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+}
+2571 = {
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 1563
+	}
+
+	artisans=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 6
+	}
+
+	officers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+}

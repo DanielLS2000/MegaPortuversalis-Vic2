@@ -1,0 +1,19 @@
+name = "Avalon War for Independence"
+
+1826.6.17 = {
+	add_attacker = USA
+	add_defender = ENG
+	add_defender = DLH
+	add_defender = MAW
+	add_defender = SIN
+	add_defender = BRZ
+	add_defender = JAM
+	add_defender = AST
+
+	war_goal = {
+		casus_belli = become_independent
+		actor = USA
+		receiver = ENG
+		country = USA
+	}
+}

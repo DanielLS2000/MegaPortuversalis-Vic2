@@ -1,0 +1,372 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 708
+	}
+
+}
+2239 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1511
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 11932
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 531
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 112
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = catholic
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = catholic
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 752
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1187
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 12
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 7607
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 337
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = catholic
+		size= 71
+	}
+
+}

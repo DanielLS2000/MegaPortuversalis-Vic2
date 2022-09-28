@@ -1,0 +1,326 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 3905
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 5322
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 1120
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 67
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = sunni
+		size= 5463
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = sunni
+		size= 631
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = sunni
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = sunni
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = sunni
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = sunni
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = catholic
+		size= 74
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = catholic
+		size= 999
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = catholic
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = catholic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = catholic
+		size= 1426
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 354
+	}
+
+	artisans=
+	{
+		culture = sureno
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 17
+	}
+
+	clergymen=
+	{
+		culture = sureno
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = sureno
+		religion = catholic
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = sureno
+		religion = catholic
+		size= 480
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = sunni
+		size= 496
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = sunni
+		size= 57
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = sunni
+		size= 16
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = sunni
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = sunni
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = phianam
+		religion = catholic
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = phianam
+		religion = catholic
+		size= 91
+	}
+
+	clergymen=
+	{
+		culture = phianam
+		religion = catholic
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = phianam
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = phianam
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = phianam
+		religion = catholic
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = phianam
+		religion = catholic
+		size= 130
+	}
+
+}

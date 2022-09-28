@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+add_core=KOR
+trade_goods = timber
+life_rating = 31
+colonial=2

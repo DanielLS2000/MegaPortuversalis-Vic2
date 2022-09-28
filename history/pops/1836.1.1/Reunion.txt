@@ -1,0 +1,114 @@
+2126 = {
+	slaves=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 12704
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 623
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 8318
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 444
+	}
+
+	clergymen=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 93
+	}
+
+	officers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 11
+	}
+
+	slaves=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1294
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 63
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 535
+	}
+
+	clergymen=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 112
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 132
+	}
+
+}

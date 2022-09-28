@@ -1,0 +1,7 @@
+owner=ITA
+controller=ITA
+add_core=WOL
+trade_goods = coal
+life_rating = 15
+terrain = semidesert
+colonial=2

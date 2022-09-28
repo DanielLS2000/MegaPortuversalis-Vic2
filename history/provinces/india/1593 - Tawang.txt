@@ -1,0 +1,7 @@
+owner=GDW
+controller=AVA
+add_core=AVA
+add_core=GDW
+trade_goods = cattle
+life_rating = 30
+fort = 1

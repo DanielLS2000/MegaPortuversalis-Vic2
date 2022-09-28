@@ -1,0 +1,16 @@
+name = "Rattonsburg War for Independence"
+
+1826.6.17 = {
+	add_attacker = LOU
+	add_defender = LOT
+	add_defender = HAI
+	add_defender = RGS
+	add_defender = X26
+
+	war_goal = {
+		casus_belli = become_independent
+		actor = LOU
+		receiver = LOT
+		country = LOU
+	}
+}

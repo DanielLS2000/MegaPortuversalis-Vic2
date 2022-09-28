@@ -1,0 +1,1087 @@
+29 = {
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 221
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 3701
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 39
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 406
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 70
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 423
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 117
+	}
+
+}
+1191 = {
+	slaves=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 9454
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1482
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2383
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 37
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1335
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 37995
+	}
+
+	slaves=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 736
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 115
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 2754
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 43
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 1542
+	}
+
+}
+1192 = {
+	slaves=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 5663
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1256
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 3141
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 22
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 1131
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 33439
+	}
+
+	slaves=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 440
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 98
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 3628
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 26
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 1306
+	}
+
+}
+1195 = {
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 1686
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 1824
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 3451
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 370
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 44
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 828
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 41040
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 404
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 437
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 5105
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 547
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 66
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 1225
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 3935
+	}
+
+}
+1198 = {
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 32348
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 7150
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 12739
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 1429
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 174
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 242
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 1623
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 136723
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 7720
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 1706
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 18821
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 2112
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 257
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 357
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 2398
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 11553
+	}
+
+}
+1199 = {
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 17203
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 4648
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 8794
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 942
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 163
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 157
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 1055
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 92661
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 3979
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 1075
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 12862
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 1378
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 239
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 230
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 1543
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 7753
+	}
+
+}
+1200 = {
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 4397
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 3005
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 322
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 30
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 721
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 30272
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 966
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 349
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 4326
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 464
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 43
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 1039
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 2173
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = sunni
+		size= 2563
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = sunni
+		size= 926
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = sunni
+		size= 1751
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = sunni
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = sunni
+		size= 18
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = sunni
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = sunni
+		size= 420
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = sunni
+		size= 19120
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = orthodox
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = orthodox
+		size= 144
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = orthodox
+		size= 2298
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = orthodox
+		size= 246
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = orthodox
+		size= 23
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = orthodox
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = orthodox
+		size= 551
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-turkish-culture-num1
+		religion = orthodox
+		size= 200
+	}
+
+}
+1202 = {
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 11021
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 2759
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 5219
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 559
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 67
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 626
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 54217
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 2560
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 641
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 7644
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 819
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 98
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 137
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 917
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 4505
+	}
+
+}

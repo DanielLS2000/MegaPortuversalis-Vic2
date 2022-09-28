@@ -1,0 +1,249 @@
+1773 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = sunni
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = sunni
+		size= 800
+	}
+
+}
+1774 = {
+	soldiers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = sunni
+		size= 117
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = catholic
+		size= 62
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
+		religion = protestant
+		size= 189
+	}
+
+	soldiers=
+	{
+		culture = svart
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = protestant
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = protestant
+		size= 89
+	}
+
+	soldiers=
+	{
+		culture = svart
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = catholic
+		size= 19
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = catholic
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 62
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 108
+	}
+
+}

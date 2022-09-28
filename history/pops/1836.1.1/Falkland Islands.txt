@@ -1,0 +1,30 @@
+2131 = {
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = protestant
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = germanic_andes_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+}

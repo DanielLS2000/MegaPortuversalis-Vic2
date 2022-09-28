@@ -1,0 +1,9 @@
+owner=SCA
+controller=SCA
+add_core=POL
+add_core=SCA
+add_core=WSF
+trade_goods = fish
+life_rating = 40
+naval_base = 1
+fort = 1

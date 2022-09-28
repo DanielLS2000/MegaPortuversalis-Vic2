@@ -1,0 +1,6 @@
+owner=LOT
+controller=LOT
+add_core=FRA
+trade_goods = fruit
+life_rating = 32
+fort = 1

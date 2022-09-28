@@ -1,0 +1,1443 @@
+1485 = {
+	slaves=
+	{
+		culture = polynesian
+		religion = animist
+		size= 9147
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4327
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1274
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 413
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 32
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 139041
+	}
+
+	slaves=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 229
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 311
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 3031
+	}
+
+	slaves=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 3260
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 1543
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 1685
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 548
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 42
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 354
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 47582
+	}
+
+	slaves=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 235
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 2426
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 789
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 61
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 510
+	}
+
+	slaves=
+	{
+		culture = min
+		religion = animist
+		size= 3658
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = animist
+		size= 1731
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = animist
+		size= 2238
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = animist
+		size= 727
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = animist
+		size= 56
+	}
+
+	officers=
+	{
+		culture = min
+		religion = animist
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = animist
+		size= 470
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = animist
+		size= 52809
+	}
+
+	slaves=
+	{
+		culture = min
+		religion = catholic
+		size= 1968
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = catholic
+		size= 931
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = catholic
+		size= 2191
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = catholic
+		size= 712
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = min
+		religion = catholic
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = catholic
+		size= 460
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = catholic
+		size= 26826
+	}
+
+	slaves=
+	{
+		culture = min
+		religion = protestant
+		size= 1293
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = protestant
+		size= 612
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = protestant
+		size= 3253
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = protestant
+		size= 1057
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = protestant
+		size= 81
+	}
+
+	officers=
+	{
+		culture = min
+		religion = protestant
+		size= 171
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = protestant
+		size= 683
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = protestant
+		size= 14701
+	}
+
+}
+2406 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6674
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 146
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 69
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 76
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 2290
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 109
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = animist
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = animist
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = animist
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = min
+		religion = animist
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = animist
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = animist
+		size= 2544
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = catholic
+		size= 42
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = catholic
+		size= 99
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = catholic
+		size= 32
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = min
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = catholic
+		size= 1297
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = protestant
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = protestant
+		size= 147
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = protestant
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = protestant
+		size= 4
+	}
+
+	officers=
+	{
+		culture = min
+		religion = protestant
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = protestant
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = protestant
+		size= 718
+	}
+
+}
+2562 = {
+	slaves=
+	{
+		culture = polynesian
+		religion = animist
+		size= 9147
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 745
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 220
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 16379
+	}
+
+	slaves=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 229
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 332
+	}
+
+	slaves=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 3260
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 266
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 290
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 5499
+	}
+
+	slaves=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 235
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 19
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 418
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 10
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 88
+	}
+
+	slaves=
+	{
+		culture = min
+		religion = animist
+		size= 3657
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = animist
+		size= 298
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = animist
+		size= 386
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = animist
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = min
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = animist
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = animist
+		size= 6070
+	}
+
+	slaves=
+	{
+		culture = min
+		religion = catholic
+		size= 1968
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = catholic
+		size= 160
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = catholic
+		size= 377
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = catholic
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = min
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = catholic
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = catholic
+		size= 2993
+	}
+
+	slaves=
+	{
+		culture = min
+		religion = protestant
+		size= 1293
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = protestant
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = protestant
+		size= 560
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = protestant
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = protestant
+		size= 14
+	}
+
+	officers=
+	{
+		culture = min
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = protestant
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = protestant
+		size= 1463
+	}
+
+}
+2681 = {
+	soldiers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 4705
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = animist
+		size= 1385
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = animist
+		size= 450
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = animist
+		size= 290
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = animist
+		size= 161114
+	}
+
+	soldiers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 118
+	}
+
+	artisans=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 338
+	}
+
+	clergymen=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = polynesian
+		religion = catholic
+		size= 3543
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 1677
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 1832
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 595
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 46
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 385
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 55278
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 2638
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 857
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 66
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 139
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = protestant
+		size= 554
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = animist
+		size= 1882
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = animist
+		size= 2433
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = animist
+		size= 791
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = animist
+		size= 61
+	}
+
+	officers=
+	{
+		culture = min
+		religion = animist
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = animist
+		size= 511
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = animist
+		size= 61394
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = catholic
+		size= 1012
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = catholic
+		size= 2382
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = catholic
+		size= 774
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = catholic
+		size= 60
+	}
+
+	officers=
+	{
+		culture = min
+		religion = catholic
+		size= 125
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = catholic
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = catholic
+		size= 31307
+	}
+
+	soldiers=
+	{
+		culture = min
+		religion = protestant
+		size= 665
+	}
+
+	artisans=
+	{
+		culture = min
+		religion = protestant
+		size= 3537
+	}
+
+	clergymen=
+	{
+		culture = min
+		religion = protestant
+		size= 1150
+	}
+
+	bureaucrats=
+	{
+		culture = min
+		religion = protestant
+		size= 88
+	}
+
+	officers=
+	{
+		culture = min
+		religion = protestant
+		size= 186
+	}
+
+	aristocrats=
+	{
+		culture = min
+		religion = protestant
+		size= 743
+	}
+
+	farmers=
+	{
+		culture = min
+		religion = protestant
+		size= 17388
+	}
+
+}

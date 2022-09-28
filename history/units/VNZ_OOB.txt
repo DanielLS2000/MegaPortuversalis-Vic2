@@ -1,0 +1,705 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 4
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = -8
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = -55
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 26
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 5
+	level = 2
+}
+ENG = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+FRA = {
+	value = -15
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAM = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -15
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 56
+	influence_value = 1
+	level = 3
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 103
+	influence_value = 13
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 20
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Lope Lópe de Haro"
+	date="1794.9.1"
+	type=sea
+	personality="resourceful"
+	background="bootlicker"
+}
+
+leader = {
+	name="Francisco de la Vega"
+	date="1807.8.1"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Felipe Grimaldi"
+	date="1816.10.19"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Carlos Cortés"
+	date="1816.10.22"
+	type=land
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Juan de Ayala"
+	date="1816.12.28"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Gaspar Cortés"
+	date="1825.12.4"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Lope Tellez-Girón"
+	date="1825.12.6"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="8th Army"
+	location=2246
+	regiment = {
+		name="1st Guanare Infantry"
+		type=infantry
+		home=2265
+	}
+	regiment = {
+		name="1st Barranquilla Infantry"
+		type=infantry
+		home=2255
+	}
+	regiment = {
+		name="2nd Barranquilla Infantry"
+		type=infantry
+		home=2255
+	}
+	regiment = {
+		name="1st Pasto Infantry"
+		type=infantry
+		home=2259
+	}
+	regiment = {
+		name="1st Calabozo Artillery"
+		type=artillery
+		home=2266
+	}
+	regiment = {
+		name="1st Barranquilla Artillery"
+		type=artillery
+		home=2255
+	}
+	regiment = {
+		name="1st Casanare Infantry"
+		type=infantry
+		home=2262
+	}
+	regiment = {
+		name="1st Quito Artillery"
+		type=artillery
+		home=2279
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2283
+	regiment = {
+		name="1st Medellín Infantry"
+		type=infantry
+		home=2252
+	}
+	regiment = {
+		name="3rd Barranquilla Infantry"
+		type=infantry
+		home=2255
+	}
+	regiment = {
+		name="1st Quito Infantry"
+		type=infantry
+		home=2279
+	}
+	regiment = {
+		name="1st Medellín Artillery"
+		type=artillery
+		home=2252
+	}
+	regiment = {
+		name="2nd Medellín Artillery"
+		type=artillery
+		home=2252
+	}
+	regiment = {
+		name="3rd Medellín Artillery"
+		type=artillery
+		home=2252
+	}
+	regiment = {
+		name="3rd Medellín Infantry"
+		type=infantry
+		home=2252
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2975
+	ship = {
+		name="Brión"
+		type=manowar
+	}
+	ship = {
+		name="Colombiana"
+		type=manowar
+	}
+	ship = {
+		name="Conejo"
+		type=manowar
+	}
+	ship = {
+		name="Eclipse"
+		type=manowar
+	}
+	ship = {
+		name="Feliz"
+		type=manowar
+	}
+	ship = {
+		name="Intrépido"
+		type=manowar
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2976
+	ship = {
+		name="Caribe"
+		type=frigate
+	}
+	ship = {
+		name="Cojedes"
+		type=frigate
+	}
+	ship = {
+		name="4th Cartagena de Indias Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2279
+	regiment = {
+		name="2nd Medellín Infantry"
+		type=infantry
+		home=2252
+	}
+	regiment = {
+		name="4th Medellín Artillery"
+		type=artillery
+		home=2252
+	}
+	regiment = {
+		name="1st Maracaibo Infantry"
+		type=infantry
+		home=2270
+	}
+	regiment = {
+		name="1st Loja Artillery"
+		type=artillery
+		home=2282
+	}
+}
+
+navy = {
+	name="12th Fleet"
+	location=2255
+	ship = {
+		name="Lara"
+		type=frigate
+	}
+	ship = {
+		name="Mérida"
+		type=frigate
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=2241
+	ship = {
+		name="Móvil"
+		type=clipper_transport
+	}
+	ship = {
+		name="Navegante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Neptuno"
+		type=clipper_transport
+	}
+	ship = {
+		name="Poderoso"
+		type=clipper_transport
+	}
+	ship = {
+		name="Reivindicador"
+		type=clipper_transport
+	}
+	ship = {
+		name="Remolcador"
+		type=clipper_transport
+	}
+	ship = {
+		name="República"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Juan"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Lucas"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Marcos"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Mateo"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Pablo"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Pedro"
+		type=clipper_transport
+	}
+	ship = {
+		name="Sirena"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2755
+	ship = {
+		name="Independencia"
+		type=manowar
+	}
+	ship = {
+		name="Monagas"
+		type=frigate
+	}
+	ship = {
+		name="Nueva Esparta"
+		type=frigate
+	}
+	ship = {
+		name="Portuguesa"
+		type=frigate
+	}
+	ship = {
+		name="Trujillo"
+		type=frigate
+	}
+	ship = {
+		name="2nd Quibdó Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="18th Fleet"
+	location=2985
+	ship = {
+		name="Warao"
+		type=frigate
+	}
+	ship = {
+		name="Yecuana"
+		type=frigate
+	}
+	ship = {
+		name="3rd Guayaquil Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Georgetown Frigate"
+		type=frigate
+	}
+}
+

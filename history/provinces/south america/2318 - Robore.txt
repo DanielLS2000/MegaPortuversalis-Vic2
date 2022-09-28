@@ -1,0 +1,7 @@
+owner=PEU
+controller=PEU
+add_core=GRI
+add_core=PEU
+trade_goods = grain
+life_rating = 31
+terrain = savanna

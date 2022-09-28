@@ -1,0 +1,10 @@
+owner=GDW
+controller=GDW
+add_core=DLH
+add_core=HND
+add_core=MAW
+add_core=MEW
+add_core=RAJ
+trade_goods = opium
+life_rating = 32
+fort = 1

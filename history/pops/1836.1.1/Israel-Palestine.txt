@@ -1,0 +1,446 @@
+916 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 2021
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 373
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 10111
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 925
+	}
+
+}
+917 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 743
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 99
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 12441
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 936
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 256
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 153
+	}
+
+}
+918 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1628
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 293
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 8449
+	}
+
+}
+919 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 1475
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 320
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 7636
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1675
+	}
+
+}
+920 = {
+	soldiers=
+	{
+		culture = misri
+		religion = catholic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = misri
+		religion = catholic
+		size= 449
+	}
+
+	clergymen=
+	{
+		culture = misri
+		religion = catholic
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = misri
+		religion = catholic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = misri
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = misri
+		religion = catholic
+		size= 141
+	}
+
+	farmers=
+	{
+		culture = misri
+		religion = catholic
+		size= 9387
+	}
+
+}
+921 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 208
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 521
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = catholic
+		size= 6546
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 657
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = catholic
+		size= 78
+	}
+
+}

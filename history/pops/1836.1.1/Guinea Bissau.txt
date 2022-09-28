@@ -1,0 +1,116 @@
+1877 = {
+	slaves=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 1920
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 240
+	}
+
+	artisans=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 961
+	}
+
+	clergymen=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 34
+	}
+
+	officers=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 20483
+	}
+
+}
+1878 = {
+	slaves=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 1720
+	}
+
+	soldiers=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 774
+	}
+
+	clergymen=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 126
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 27
+	}
+
+	officers=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = dynamic-dyola-culture-num1
+		religion = sunni
+		size= 16323
+	}
+
+}

@@ -1,0 +1,427 @@
+political_decisions = {
+NM = {
+		potential = {
+		NOT = {
+				has_country_flag = hasNM
+			}
+			OR = {
+			MEX_2146 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2142 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2138 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2152 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			}
+		}
+		allow = {
+			OR = {
+			is_greater_power = yes
+			is_secondary_power = yes
+			prestige = 30
+			}
+		}
+		effect = {
+		any_pop = {
+			dominant_issue = {
+				value = jingoism
+				factor = 0.05
+			}
+		}
+			set_country_flag = hasNM
+			any_pop = {
+				consciousness = 2
+			}
+			MEX_2146 = {
+				add_core = THIS
+			}
+			MEX_2142 = {
+				add_core = THIS
+			}
+			MEX_2138 = {
+				add_core = THIS
+			}
+			MEX_2152 = {
+				add_core = THIS
+			}
+			
+	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	SM = {
+		potential = {
+		NOT = {
+				has_country_flag = hasSM
+			}
+			OR = {
+			MEX_2161 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2170 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2162 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2173 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			}
+		}
+		allow = {
+			OR = {
+			is_greater_power = yes
+			is_secondary_power = yes
+			prestige = 30
+			}
+		}
+		effect = {
+		any_pop = {
+			dominant_issue = {
+				value = jingoism
+				factor = 0.05
+			}
+		}
+			set_country_flag = hasSM
+			any_pop = {
+				consciousness = 2
+			}
+			MEX_2161 = {
+				add_core = THIS
+			}
+			MEX_2170 = {
+				add_core = THIS
+			}
+			MEX_2162 = {
+				add_core = THIS
+			}
+			MEX_2173 = {
+				add_core = THIS
+			}
+			
+	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	NCA = {
+		potential = {
+		OR = {
+		has_country_flag = hasNM
+		has_country_flag = hasSM
+		}
+		NOT = {
+				has_country_flag = hasNCA
+			}
+			OR = {
+			MEX_2146 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2142 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2138 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2152 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2161 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2170 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2162 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2173 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			}
+		}
+		allow = {
+			OR = {
+			is_greater_power = yes
+			is_secondary_power = yes
+			prestige = 60
+			}
+		}
+		effect = {
+		any_pop = {
+			dominant_issue = {
+				value = jingoism
+				factor = 0.05
+			}
+		}
+			set_country_flag = hasNCA
+			any_pop = {
+				consciousness = 2
+			}
+			MEX_2161 = {
+				add_core = THIS
+			}
+			MEX_2170 = {
+				add_core = THIS
+			}
+			MEX_2162 = {
+				add_core = THIS
+			}
+			MEX_2173 = {
+				add_core = THIS
+			}
+			MEX_2146 = {
+				add_core = THIS
+			}
+			MEX_2142 = {
+				add_core = THIS
+			}
+			MEX_2138 = {
+				add_core = THIS
+			}
+			MEX_2152 = {
+				add_core = THIS
+			}
+			
+	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	YP = {
+		potential = {
+		NOT = {
+				has_country_flag = hasYP
+			}
+			OR = {
+			MEX_2183 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			UCA_2186 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			UCA_2191 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			UCA_2197 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			UCA_2201 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			CLM_1723 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			}
+		}
+		allow = {
+			OR = {
+			is_greater_power = yes
+			is_secondary_power = yes
+			prestige = 30
+			}
+		}
+		effect = {
+		any_pop = {
+			dominant_issue = {
+				value = jingoism
+				factor = 0.05
+			}
+		}
+			set_country_flag = hasYP
+			any_pop = {
+				consciousness = 2
+			}
+			MEX_2183 = {
+				add_core = THIS
+			}
+			UCA_2186 = {
+				add_core = THIS
+			}
+			UCA_2191 = {
+				add_core = THIS
+			}
+			UCA_2197 = {
+				add_core = THIS
+			}
+			UCA_2201 = {
+				add_core = THIS
+			}
+			CLM_1723 = {
+				add_core = THIS
+			}
+			
+	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	CA = {
+		potential = {
+		OR = {
+		has_country_flag = hasNCA
+		has_country_flag = hasYP
+		}
+		NOT = {
+				has_country_flag = hasCA
+			}
+			OR = {
+			MEX_2146 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2142 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2138 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2152 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2161 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2170 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2162 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2173 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			MEX_2183 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			UCA_2186 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			UCA_2191 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			UCA_2197 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			UCA_2201 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			CLM_1723 = {
+				is_capital = yes
+				owned_by = THIS
+			}
+			}
+		}
+		allow = {
+			OR = {
+			is_greater_power = yes
+			is_secondary_power = yes
+			prestige = 90
+			}
+		}
+		effect = {
+		any_pop = {
+			dominant_issue = {
+				value = jingoism
+				factor = 0.05
+			}
+		}
+			set_country_flag = hasCA
+			any_pop = {
+				consciousness = 2
+			}
+			MEX_2183 = {
+				add_core = THIS
+			}
+			UCA_2186 = {
+				add_core = THIS
+			}
+			UCA_2191 = {
+				add_core = THIS
+			}
+			UCA_2197 = {
+				add_core = THIS
+			}
+			UCA_2201 = {
+				add_core = THIS
+			}
+			CLM_1723 = {
+				add_core = THIS
+			}
+			MEX_2161 = {
+				add_core = THIS
+			}
+			MEX_2170 = {
+				add_core = THIS
+			}
+			MEX_2162 = {
+				add_core = THIS
+			}
+			MEX_2173 = {
+				add_core = THIS
+			}
+			MEX_2146 = {
+				add_core = THIS
+			}
+			MEX_2142 = {
+				add_core = THIS
+			}
+			MEX_2138 = {
+				add_core = THIS
+			}
+			MEX_2152 = {
+				add_core = THIS
+			}
+			
+	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	}

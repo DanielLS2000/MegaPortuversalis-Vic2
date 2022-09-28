@@ -1,0 +1,1260 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -9
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -2
+	level = 2
+}
+CRB = {
+	value = -2
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -106
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -105
+	level = 2
+}
+JAM = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = -11
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = -15
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = -59
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 103
+	influence_value = 13
+	level = 3
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 20
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = -84
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Adrianos Psellos"
+	date="1788.11.14"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ioustinos Tornikes"
+	date="1792.2.23"
+	type=land
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Dionysios Zimisces"
+	date="1805.3.5"
+	type=sea
+	personality="intuitive"
+	background="brownnoser"
+}
+
+leader = {
+	name="Anastasios Psellos"
+	date="1805.3.11"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Georgios Diogenes"
+	date="1805.5.21"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Adrianos Laskaris"
+	date="1808.10.9"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Sergios Paraspondylos"
+	date="1809.6.25"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Leon Mikrulakes"
+	date="1824.8.22"
+	type=sea
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Traianos Tornikes"
+	date="1824.8.25"
+	type=sea
+	personality="stalwart"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Matthaios Batatzes"
+	date="1824.8.27"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Diogenes Choumnos"
+	date="1824.8.29"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Petros Rhodocanakis"
+	date="1824.8.30"
+	type=land
+	personality="coolminded"
+	background="artillerist"
+}
+
+leader = {
+	name="Athanasios Zarides"
+	date="1824.9.2"
+	type=land
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Alexios Kantakuzenos"
+	date="1824.9.5"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Alexios Aoinos"
+	date="1824.9.9"
+	type=land
+	personality="chivalrous"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Theophilos Tornikes"
+	date="1824.9.15"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Elpidios Batatzes"
+	date="1824.10.23"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Niketas Argyros"
+	date="1825.2.4"
+	type=land
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Nikephoros Argyros"
+	date="1825.2.20"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="Thema Achaea"
+	location=673
+	regiment = {
+		name="1st Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="2nd Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="1st Grevena Infantry"
+		type=infantry
+		home=820
+	}
+	regiment = {
+		name="3rd Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="1st Zante Infantry"
+		type=infantry
+		home=827
+	}
+	regiment = {
+		name="4th Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="5th Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="1st Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="1st Nafplion Artillery"
+		type=artillery
+		home=839
+	}
+	regiment = {
+		name="1st Gallipoli Artillery"
+		type=artillery
+		home=859
+	}
+	regiment = {
+		name="1st Skopje Artillery"
+		type=artillery
+		home=806
+	}
+	regiment = {
+		name="2nd Skopje Artillery"
+		type=artillery
+		home=806
+	}
+	regiment = {
+		name="5th Zante Infantry"
+		type=infantry
+		home=827
+	}
+	regiment = {
+		name="2nd Sofia Artillery"
+		type=artillery
+		home=809
+	}
+}
+
+army = {
+	name="Thema Mesambria"
+	location=667
+	regiment = {
+		name="1st Nafplion Infantry"
+		type=infantry
+		home=839
+	}
+	regiment = {
+		name="1st Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="6th Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="2nd Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="2nd Zante Infantry"
+		type=infantry
+		home=827
+	}
+	regiment = {
+		name="1st Plovdiv Artillery"
+		type=artillery
+		home=815
+	}
+	regiment = {
+		name="3rd Skopje Artillery"
+		type=artillery
+		home=806
+	}
+	regiment = {
+		name="1st Stara Zagora Artillery"
+		type=artillery
+		home=816
+	}
+	regiment = {
+		name="1st Kavala Artillery"
+		type=artillery
+		home=823
+	}
+	regiment = {
+		name="2nd Plovdiv Artillery"
+		type=artillery
+		home=815
+	}
+}
+
+navy = {
+	name="Thema Cibyrraeoton"
+	location=2772
+	ship = {
+		name="Nikolis Apostolis"
+		type=manowar
+	}
+	ship = {
+		name="Tombazis"
+		type=manowar
+	}
+	ship = {
+		name="Poros"
+		type=manowar
+	}
+	ship = {
+		name="Andreas Vokos"
+		type=manowar
+	}
+	ship = {
+		name="Laskarina Bouboulina"
+		type=manowar
+	}
+	ship = {
+		name="Constantine Kanaris"
+		type=manowar
+	}
+	ship = {
+		name="Plixavra"
+		type=manowar
+	}
+	ship = {
+		name="Averof"
+		type=manowar
+	}
+	ship = {
+		name="1st Volos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Xanthe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Mugla Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Missolonghi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Athens Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Corfu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Antalya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Polygyros Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nafplion Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Giresun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Istanbul Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Canakkale Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Izmit Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Volos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Hellas"
+		type=frigate
+	}
+	ship = {
+		name="Navarino"
+		type=frigate
+	}
+	ship = {
+		name="Psara"
+		type=frigate
+	}
+	ship = {
+		name="Prinkips Maximilianos"
+		type=frigate
+	}
+	ship = {
+		name="Maxamillianos"
+		type=frigate
+	}
+	ship = {
+		name="Mount Othrys"
+		type=frigate
+	}
+	ship = {
+		name="Thíva"
+		type=frigate
+	}
+	ship = {
+		name="Skirka"
+		type=frigate
+	}
+	ship = {
+		name="Heratos"
+		type=frigate
+	}
+	ship = {
+		name="Aeolus"
+		type=frigate
+	}
+	ship = {
+		name="1st Istanbul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Corfu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kastamonu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Missolonghi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Kastamonu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Giresun Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Nafplion Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Amfissa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Trabzon Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Sinop Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Polygyros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bolu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Missolonghi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Corinth Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Khalkis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Khalkis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Volos Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Cyclades Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Izmit Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Thema Helladikon"
+	location=666
+	regiment = {
+		name="1st Burgas Infantry"
+		type=infantry
+		home=817
+	}
+	regiment = {
+		name="2nd Burgas Infantry"
+		type=infantry
+		home=817
+	}
+	regiment = {
+		name="2nd Nafplion Artillery"
+		type=artillery
+		home=839
+	}
+	regiment = {
+		name="1st Salonika Artillery"
+		type=artillery
+		home=805
+	}
+	regiment = {
+		name="1st Florina Artillery"
+		type=artillery
+		home=819
+	}
+	regiment = {
+		name="1st Sofia Artillery"
+		type=artillery
+		home=809
+	}
+	regiment = {
+		name="4th Skopje Artillery"
+		type=artillery
+		home=806
+	}
+	regiment = {
+		name="5th Skopje Artillery"
+		type=artillery
+		home=806
+	}
+	regiment = {
+		name="3rd Edirne Infantry"
+		type=infantry
+		home=828
+	}
+	regiment = {
+		name="1st Petrich Artillery"
+		type=artillery
+		home=808
+	}
+}
+
+navy = {
+	name="Thema Aigaeou Pelagous"
+	location=841
+	ship = {
+		name="1st Gallipoli Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Polygyros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Polygyros Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Xanthe Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pärnu Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Khalkis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Burgas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Polygyros Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=860
+	ship = {
+		name="1st Patras Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Sinop Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bursa Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Byzantine Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Independent Army"
+	location=673
+	regiment = {
+		name="2nd Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="3rd Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="4th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="5th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="6th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="7th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+}
+
+navy = {
+	name="Thema Cypriakon"
+	location=2773
+	ship = {
+		name="1st Chios Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Istanbul Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bursa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Antalya Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Amfissa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Burgas Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Izmir Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Trabzon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Izmit Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Üsküdar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Corinth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Balikesir Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Myteline Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Giresun Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bursa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mugla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Burgas Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Corinth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Xanthe Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Athens Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Amfissa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Corinth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mugla Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Myteline Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Byzantine Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Missolonghi Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Thema Athens"
+	location=669
+	regiment = {
+		name="3rd Zante Infantry"
+		type=infantry
+		home=827
+	}
+	regiment = {
+		name="1st Missolonghi Artillery"
+		type=artillery
+		home=837
+	}
+	regiment = {
+		name="1st Polygyros Artillery"
+		type=artillery
+		home=822
+	}
+	regiment = {
+		name="3rd Gallipoli Artillery"
+		type=artillery
+		home=859
+	}
+}
+
+army = {
+	name="Stratioti"
+	location=668
+	regiment = {
+		name="8th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="9th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="13th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+}
+
+army = {
+	name="Free Company"
+	location=668
+	regiment = {
+		name="1st Xanthe Infantry"
+		type=infantry
+		home=829
+	}
+	regiment = {
+		name="1st Dedeagatch Infantry"
+		type=infantry
+		home=830
+	}
+}
+
+army = {
+	name="Independent Cossack Host"
+	location=666
+	regiment = {
+		name="1st Plovdiv Infantry"
+		type=infantry
+		home=815
+	}
+	regiment = {
+		name="1st Stara Zagora Infantry"
+		type=infantry
+		home=816
+	}
+	regiment = {
+		name="2nd Plovdiv Infantry"
+		type=infantry
+		home=815
+	}
+	regiment = {
+		name="3rd Plovdiv Infantry"
+		type=infantry
+		home=815
+	}
+}
+
+army = {
+	name="Bedouin Auxiliaries"
+	location=668
+	regiment = {
+		name="7th Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="8th Petrich Infantry"
+		type=infantry
+		home=808
+	}
+	regiment = {
+		name="9th Petrich Infantry"
+		type=infantry
+		home=808
+	}
+}
+
+army = {
+	name="Kurdish Company"
+	location=669
+	regiment = {
+		name="10th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="12th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+}
+
+army = {
+	name="Thema Buzau"
+	location=675
+	regiment = {
+		name="1st Cyclades Infantry"
+		type=infantry
+		home=845
+	}
+	regiment = {
+		name="11th Skopje Infantry"
+		type=infantry
+		home=806
+	}
+	regiment = {
+		name="4th Zante Infantry"
+		type=infantry
+		home=827
+	}
+	regiment = {
+		name="1st Istanbul Infantry"
+		type=infantry
+		home=860
+	}
+	regiment = {
+		name="1st Zante Artillery"
+		type=artillery
+		home=827
+	}
+	regiment = {
+		name="1st Volos Artillery"
+		type=artillery
+		home=832
+	}
+	regiment = {
+		name="1st Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="2nd Istanbul Artillery"
+		type=artillery
+		home=860
+	}
+	regiment = {
+		name="2nd Gallipoli Artillery"
+		type=artillery
+		home=859
+	}
+}
+
+army = {
+	name="Novgorod Company"
+	location=667
+	regiment = {
+		name="1st Tabriz Infantry"
+		type=infantry
+		home=1108
+	}
+	regiment = {
+		name="2nd Tabriz Infantry"
+		type=infantry
+		home=1108
+	}
+}
+

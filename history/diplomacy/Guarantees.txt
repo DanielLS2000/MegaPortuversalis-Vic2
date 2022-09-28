@@ -1,0 +1,16 @@
+guarantee=
+{
+	first="PER"
+	second="PNJ"
+	start_date="1811.10.6"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="SCA"
+	second="MNX"
+	start_date="1821.11.15"
+	end_date="1936.1.1"
+}
+

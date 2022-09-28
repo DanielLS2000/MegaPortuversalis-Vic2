@@ -1,0 +1,249 @@
+1955 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 105
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 266
+	}
+
+	farmers=
+	{
+		culture = morado
+		religion = catholic
+		size= 985
+	}
+
+	artisans=
+	{
+		culture = morado
+		religion = catholic
+		size= 77
+	}
+
+	clergymen=
+	{
+		culture = morado
+		religion = catholic
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 16
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 427
+	}
+
+	soldiers=
+	{
+		culture = morado
+		religion = catholic
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = morado
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = morado
+		religion = catholic
+		size= 4
+	}
+
+}
+1973 = {
+	slaves=
+	{
+		culture = fang
+		religion = shamanism
+		size= 94
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = shamanism
+		size= 235
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = shamanism
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = shamanism
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = shamanism
+		size= 6286
+	}
+
+	slaves=
+	{
+		culture = fang
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = catholic
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = catholic
+		size= 357
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = catholic
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = fang
+		religion = catholic
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = fang
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = catholic
+		size= 1300
+	}
+
+	slaves=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 287
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 206
+	}
+
+	artisans=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 3480
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = dynamic-cosmopolitan_french-norwegian-culture-num1
+		religion = catholic
+		size= 16233
+	}
+
+}

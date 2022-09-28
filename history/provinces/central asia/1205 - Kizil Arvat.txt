@@ -1,0 +1,6 @@
+owner=RUS
+controller=RUS
+add_core=X21
+trade_goods = fish
+life_rating = 15
+terrain = desert

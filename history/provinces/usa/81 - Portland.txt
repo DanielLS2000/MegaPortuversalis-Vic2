@@ -1,0 +1,11 @@
+owner=LOU
+controller=LOU
+add_core=LOU
+trade_goods = fish
+life_rating = 20
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

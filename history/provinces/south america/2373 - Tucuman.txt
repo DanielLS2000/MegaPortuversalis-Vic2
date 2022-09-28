@@ -1,0 +1,7 @@
+owner=SBA
+controller=SBA
+add_core=CCQ
+add_core=SBA
+trade_goods = fruit
+life_rating = 35
+terrain = dryhills

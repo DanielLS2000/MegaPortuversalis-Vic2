@@ -1,0 +1,7 @@
+owner=GUR
+controller=GUR
+add_core=ASH
+add_core=GUR
+trade_goods = cattle
+life_rating = 10
+fort = 1

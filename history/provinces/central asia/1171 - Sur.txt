@@ -1,0 +1,8 @@
+owner=EGY
+controller=EGY
+add_core=ARA
+add_core=OMA
+add_core=X22
+trade_goods = fruit
+life_rating = 35
+colonial=2

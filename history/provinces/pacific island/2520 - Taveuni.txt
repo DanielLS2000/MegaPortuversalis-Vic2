@@ -1,0 +1,7 @@
+owner=SPA
+controller=SPA
+add_core=MLC
+trade_goods = cattle
+life_rating = 15
+terrain = small_island
+colonial=2

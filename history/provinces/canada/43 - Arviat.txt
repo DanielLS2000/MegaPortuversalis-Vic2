@@ -1,0 +1,12 @@
+owner=MEX
+controller=MEX
+add_core=CAD
+add_core=MEX
+trade_goods = cotton
+life_rating = 35
+state_building=
+{
+	level=1
+	building = ammunition_factory
+	upgrade = yes
+}

@@ -1,0 +1,648 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -15
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = -8
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = -121
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 2
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -15
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAM = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -15
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 120
+	influence_value = 17
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 20
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+VNZ = {
+	value = 72
+	influence_value = 5
+	level = 3
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Fadrique Pimentel"
+	date="1806.12.23"
+	type=sea
+	personality="persistant"
+	background="brownnoser"
+}
+
+leader = {
+	name="Ramiro Ponce de León"
+	date="1807.7.15"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Felipe de Borbón"
+	date="1807.11.17"
+	type=land
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Garc0a Cabeza de Vaca"
+	date="1816.10.21"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Fausto de Grijalva"
+	date="1816.10.22"
+	type=land
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Manuel de Guzmán"
+	date="1825.12.4"
+	type=land
+	personality="efficient"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Lope de la Vega"
+	date="1824.8.19"
+	type=sea
+	personality="earnest"
+	background="armchair_general"
+}
+
+leader = {
+	name="Sebasti0n Gravina"
+	date="1825.12.7"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Gaspar Dávila"
+	date="1825.12.8"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="5th Army"
+	location=2304
+	regiment = {
+		name="1st Huaraz Infantry"
+		type=infantry
+		home=2298
+	}
+	regiment = {
+		name="1st Pucallpa Infantry"
+		type=infantry
+		home=2300
+	}
+	regiment = {
+		name="2nd Pucallpa Infantry"
+		type=infantry
+		home=2300
+	}
+	regiment = {
+		name="1st Arequipa Artillery"
+		type=artillery
+		home=2304
+	}
+	regiment = {
+		name="1st Cochabamba Infantry"
+		type=infantry
+		home=2311
+	}
+	regiment = {
+		name="1st La Paz Artillery"
+		type=artillery
+		home=2310
+	}
+}
+
+army = {
+	name="Exército Anti-Lucca"
+	location=2314
+	regiment = {
+		name="2nd Huaraz Infantry"
+		type=infantry
+		home=2298
+	}
+	regiment = {
+		name="3rd Pucallpa Infantry"
+		type=infantry
+		home=2300
+	}
+	regiment = {
+		name="1st Arequipa Infantry"
+		type=infantry
+		home=2304
+	}
+	regiment = {
+		name="1st Asuncion Artillery"
+		type=artillery
+		home=2339
+	}
+	regiment = {
+		name="1st Huaraz Artillery"
+		type=artillery
+		home=2298
+	}
+	regiment = {
+		name="1st Asuncion Infantry"
+		type=infantry
+		home=2339
+	}
+	regiment = {
+		name="1st Cochabamba Artillery"
+		type=artillery
+		home=2311
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=2293
+	regiment = {
+		name="1st Piura Infantry"
+		type=infantry
+		home=2291
+	}
+	regiment = {
+		name="1st La Paz Infantry"
+		type=infantry
+		home=2310
+	}
+	regiment = {
+		name="2nd Piura Infantry"
+		type=infantry
+		home=2291
+	}
+	regiment = {
+		name="1st Trujillo Cavalry"
+		type=cavalry
+		home=2292
+	}
+	regiment = {
+		name="1st Cobija Artillery"
+		type=artillery
+		home=2321
+	}
+	regiment = {
+		name="1st Trujillo Artillery"
+		type=artillery
+		home=2292
+	}
+	regiment = {
+		name="1st Huaraz Cavalry"
+		type=cavalry
+		home=2298
+	}
+	regiment = {
+		name="1st Cusco Artillery"
+		type=artillery
+		home=2302
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=3158
+	ship = {
+		name="Amazonas"
+		type=frigate
+	}
+	ship = {
+		name="Apurimac"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2308
+	ship = {
+		name="Arequipeño"
+		type=manowar
+	}
+	ship = {
+		name="Balcarce"
+		type=manowar
+	}
+	ship = {
+		name="Belgrano"
+		type=manowar
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2922
+	ship = {
+		name="Callao"
+		type=frigate
+	}
+	ship = {
+		name="Independencia"
+		type=frigate
+	}
+	ship = {
+		name="Mercedes"
+		type=frigate
+	}
+	ship = {
+		name="Meteoro"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2755
+	ship = {
+		name="Caupolican"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chalaco"
+		type=clipper_transport
+	}
+	ship = {
+		name="Chimbote"
+		type=clipper_transport
+	}
+	ship = {
+		name="Colón"
+		type=clipper_transport
+	}
+	ship = {
+		name="Constitución"
+		type=clipper_transport
+	}
+	ship = {
+		name="Contraalmirante Haza"
+		type=clipper_transport
+	}
+	ship = {
+		name="General Lerzundi"
+		type=clipper_transport
+	}
+	ship = {
+		name="Guardian Ríos"
+		type=clipper_transport
+	}
+	ship = {
+		name="Iquitos"
+		type=clipper_transport
+	}
+	ship = {
+		name="Limeña"
+		type=clipper_transport
+	}
+}
+

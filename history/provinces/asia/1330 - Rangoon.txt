@@ -1,0 +1,10 @@
+owner=ENG
+controller=ENG
+add_core=AVA
+add_core=BUR
+add_core=IDO
+add_core=PEG
+trade_goods = grain
+life_rating = 35
+colonial=2
+naval_base = 2

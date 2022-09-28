@@ -1,0 +1,8 @@
+owner=GDW
+controller=GDW
+add_core=GDW
+add_core=TIB
+add_core=UTS
+trade_goods = cattle
+life_rating = 30
+fort = 1

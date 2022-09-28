@@ -1,0 +1,158 @@
+2214 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 4453
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 298
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 5869
+	}
+
+	slaves=
+	{
+		culture = afro_brazilian
+		religion = catholic
+		size= 44061
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 36535
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 16193
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 2914
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1502
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 392
+	}
+
+	officers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 242
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 4133
+	}
+
+}
+2216 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 1795
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 129
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2680
+	}
+
+	slaves=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 19244
+	}
+
+	farmers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 7996
+	}
+
+	artisans=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 7551
+	}
+
+	clergymen=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 700
+	}
+
+	aristocrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 452
+	}
+
+	bureaucrats=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 203
+	}
+
+	officers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 112
+	}
+
+	soldiers=
+	{
+		culture = germanic_central_america_superregion_culture
+		religion = catholic
+		size= 13433
+	}
+
+}

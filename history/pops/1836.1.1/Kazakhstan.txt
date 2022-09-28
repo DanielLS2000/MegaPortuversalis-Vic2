@@ -1,0 +1,3098 @@
+1181 = {
+	soldiers=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 29
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 998
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 36
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 986
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 186
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 4416
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 285
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 320
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 285
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 107
+	}
+
+	soldiers=
+	{
+		culture = ugrian
+		religion = animist
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = ugrian
+		religion = animist
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = ugrian
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ugrian
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ugrian
+		religion = animist
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = ugrian
+		religion = animist
+		size= 1908
+	}
+
+	soldiers=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 31
+	}
+
+	artisans=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 47
+	}
+
+	clergymen=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = ugrian
+		religion = sunni
+		size= 1000
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 55
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1471
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 272
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 176
+	}
+
+}
+1182 = {
+	soldiers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 676
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 539
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 89
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 37
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 927
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 219
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 37
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 16
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 730
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = jewish
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = jewish
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = jewish
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = jewish
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = jewish
+		size= 1038
+	}
+
+}
+1183 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 26
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 26
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 11
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2566
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = sunni
+		size= 27
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = sunni
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = sunni
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 137
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 57
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 1839
+	}
+
+}
+1184 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 85
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 212
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2689
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 304
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 36
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 275
+	}
+
+	soldiers=
+	{
+		culture = ugrian
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ugrian
+		religion = animist
+		size= 482
+	}
+
+	clergymen=
+	{
+		culture = ugrian
+		religion = animist
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = ugrian
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = ugrian
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = ugrian
+		religion = animist
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = ugrian
+		religion = animist
+		size= 5272
+	}
+
+	soldiers=
+	{
+		culture = ugrian
+		religion = orthodox
+		size= 126
+	}
+
+	artisans=
+	{
+		culture = ugrian
+		religion = orthodox
+		size= 1112
+	}
+
+	clergymen=
+	{
+		culture = ugrian
+		religion = orthodox
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = ugrian
+		religion = orthodox
+		size= 12
+	}
+
+	officers=
+	{
+		culture = ugrian
+		religion = orthodox
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = ugrian
+		religion = orthodox
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = ugrian
+		religion = orthodox
+		size= 3043
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = tengri_pagan_reformed
+		size= 2695
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 270
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 2024
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = orthodox
+		size= 2015
+	}
+
+}
+1185 = {
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = sunni
+		size= 4368
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = sunni
+		size= 614
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = sunni
+		size= 1535
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = sunni
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = sunni
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = sunni
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = sunni
+		size= 15109
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = orthodox
+		size= 715
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = orthodox
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = orthodox
+		size= 2037
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = orthodox
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = orthodox
+		size= 15
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = orthodox
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = orthodox
+		size= 244
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num2
+		religion = orthodox
+		size= 337
+	}
+
+}
+1186 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 5846
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 678
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 1695
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 17
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 15660
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 1029
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 119
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 2291
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 23
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 369
+	}
+
+}
+1187 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 524
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 70
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 13
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 17567
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 466
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 196
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 1427
+	}
+
+}
+1188 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size= 802
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size= 12459
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 1499
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 125
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 23
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 280
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = orthodox
+		size= 3965
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = sunni
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = sunni
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 6212
+	}
+
+}
+1193 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 441
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 15
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 371
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 20923
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 47
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 627
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 22
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 527
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 3290
+	}
+
+}
+1194 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 193
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 309
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 26
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 6275
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 396
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 414
+	}
+
+}
+1197 = {
+	slaves=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 1495
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 470
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 445
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 10134
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 3866
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 1216
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 2746
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 295
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 28
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 659
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 24001
+	}
+
+	slaves=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 892
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 280
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 4252
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 456
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 43
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 1020
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 564
+	}
+
+}
+2606 = {
+	soldiers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 67
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 84
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 2229
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 832
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 6836
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 72
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 1458
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 15
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = orthodox
+		size= 738
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 124
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = tengri_pagan_reformed
+		size= 4229
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = animist
+		size= 23
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = animist
+		size= 106
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = animist
+		size= 6
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = animist
+		size= 1
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = animist
+		size= 661
+	}
+
+}
+2610 = {
+	soldiers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = sunni
+		size= 627
+	}
+
+	artisans=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = dynamic-cuman-culture-num2
+		religion = orthodox
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 535
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 70
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 907
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 181
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 570
+	}
+
+}
+2611 = {
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 197
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 11
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 2564
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 248
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 13
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 161
+	}
+
+	soldiers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 22
+	}
+
+	artisans=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 276
+	}
+
+	clergymen=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 3
+	}
+
+	officers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = dynamic-franconian-russian_culture-culture-num1
+		religion = orthodox
+		size= 441
+	}
+
+}
+2612 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 127
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 102
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 4240
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 77
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 226
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 19
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 4
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = sunni
+		size= 2349
+	}
+
+	soldiers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 37
+	}
+
+	artisans=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 445
+	}
+
+	clergymen=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 37
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 166
+	}
+
+	farmers=
+	{
+		culture = dynamic-tajik-culture-num1
+		religion = orthodox
+		size= 606
+	}
+
+	soldiers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = dynamic-cuman-culture-num1
+		religion = sunni
+		size= 5469
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 668
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 420
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 35
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 605
+	}
+
+}
+2702 = {
+	soldiers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 24
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = sunni
+		size= 2226
+	}
+
+	soldiers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 246
+	}
+
+	clergymen=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 4
+	}
+
+	officers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = turkmen
+		religion = orthodox
+		size= 1204
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = sunni
+		size= 89
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = sunni
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = sunni
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = sunni
+		size= 1841
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 129
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = orthodox
+		size= 270
+	}
+
+}

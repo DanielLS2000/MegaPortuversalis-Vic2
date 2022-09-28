@@ -1,0 +1,745 @@
+800 = {
+	soldiers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 161
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 22
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 7
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 4163
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 146
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = protestant
+		size= 254
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = protestant
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 9
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 3393
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = catholic
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 891
+	}
+
+}
+2569 = {
+	soldiers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 323
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 44
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 8348
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 293
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = protestant
+		size= 510
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = protestant
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 6802
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = catholic
+		size= 201
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = catholic
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 1789
+	}
+
+}
+2577 = {
+	soldiers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 232
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 7
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 5898
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 210
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = protestant
+		size= 366
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = protestant
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 4806
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = catholic
+		size= 145
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = catholic
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 1264
+	}
+
+}
+2582 = {
+	soldiers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 1
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 8
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 7787
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 74
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = protestant
+		size= 465
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = protestant
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 6585
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = catholic
+		size= 180
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = catholic
+		size= 58
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 38
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 1480
+	}
+
+}
+2583 = {
+	soldiers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 478
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 2
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 11836
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 433
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = protestant
+		size= 752
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = protestant
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 26
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 9646
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = catholic
+		size= 298
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = catholic
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 10
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 2535
+	}
+
+}

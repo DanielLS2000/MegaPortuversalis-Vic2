@@ -1,0 +1,186 @@
+2240 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1516
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 17
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 10217
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 478
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 105
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 254
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = catholic
+		size= 69
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = catholic
+		size= 1450
+	}
+
+}

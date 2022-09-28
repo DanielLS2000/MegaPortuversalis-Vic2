@@ -1,0 +1,8 @@
+owner=ITA
+controller=ITA
+add_core=ITA
+add_core=CRB
+trade_goods = coffee
+life_rating = 35
+terrain = new_world_jungle
+naval_base = 2

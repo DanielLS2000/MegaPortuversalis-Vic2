@@ -1,0 +1,144 @@
+alliance=
+{
+	first="AFG"
+	second="X17"
+	start_date="1784.8.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AFG"
+	second="BLC"
+	start_date="1804.12.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AVA"
+	second="NEP"
+	start_date="1444.12.16"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BOH"
+	second="FRA"
+	start_date="1750.8.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="BOH"
+	second="RUS"
+	start_date="1810.12.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DAI"
+	second="MNX"
+	start_date="1590.2.10"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DAI"
+	second="CSH"
+	start_date="1678.3.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DAI"
+	second="CWU"
+	start_date="1815.7.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GDW"
+	second="AVA"
+	start_date="1766.5.23"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GDW"
+	second="MBL"
+	start_date="1824.4.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ITA"
+	second="EGY"
+	start_date="1772.4.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="MNX"
+	second="X14"
+	start_date="1733.9.29"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PGR"
+	second="PER"
+	start_date="1812.3.30"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PNJ"
+	second="GDW"
+	start_date="1791.1.2"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SCA"
+	second="EGY"
+	start_date="1804.8.31"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X17"
+	second="X14"
+	start_date="1640.4.24"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="X00"
+	second="EGY"
+	start_date="1766.11.10"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PEU"
+	second="GCO"
+	start_date="1761.3.15"
+	end_date="1936.1.1"
+}
+

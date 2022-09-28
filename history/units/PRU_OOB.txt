@@ -1,0 +1,894 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 5
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = -3
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -9
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -101
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = -41
+	level = 2
+}
+JAM = {
+	value = -1
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 40
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = -16
+	level = 2
+}
+LOU = {
+	value = -10
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 96
+	influence_value = 11
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 121
+	influence_value = 17
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = -1
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = -2
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 9
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 20
+	level = 2
+}
+USA = {
+	value = 7
+	level = 2
+}
+VNZ = {
+	value = -10
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 108
+	influence_value = 14
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = -7
+	level = 2
+}
+X26 = {
+	value = 7
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Rudolf von Rottenburg"
+	date="1817.10.19"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Franz von Anhalt-Dessau"
+	date="1817.10.21"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="August Wilhelm Schnittern"
+	date="1817.10.24"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Lukas von Kyau"
+	date="1817.10.27"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Reiner Posadofsky"
+	date="1817.10.28"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Ludwig Truxes"
+	date="1817.10.31"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Werner Riwotzki"
+	date="1817.11.3"
+	type=land
+	personality="chivalrous"
+	background="artillerist"
+}
+
+leader = {
+	name="Franz von Derfflinger"
+	date="1817.11.6"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Eckbert von Seel"
+	date="1817.11.9"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Helmut von Plothow"
+	date="1825.8.10"
+	type=sea
+	personality="active_p"
+	background="aristocrat"
+}
+
+
+#Armies
+army = {
+	name="4th Army"
+	location=551
+	regiment = {
+		name="1st Ulm Infantry"
+		type=infantry
+		home=593
+	}
+	regiment = {
+		name="1st Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Nienburg Infantry"
+		type=infantry
+		home=535
+	}
+	regiment = {
+		name="2nd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="2nd Nienburg Infantry"
+		type=infantry
+		home=535
+	}
+	regiment = {
+		name="1st Berlin Artillery"
+		type=artillery
+		home=549
+	}
+	regiment = {
+		name="1st Hanover Artillery"
+		type=artillery
+		home=534
+	}
+	regiment = {
+		name="1st Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="2nd Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="3rd Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="4th Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+}
+
+army = {
+	name="15th Army"
+	location=534
+	regiment = {
+		name="1st Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="1st Tübingen Infantry"
+		type=infantry
+		home=591
+	}
+	regiment = {
+		name="1st Osnabrück Infantry"
+		type=infantry
+		home=538
+	}
+	regiment = {
+		name="1st Brunswick Infantry"
+		type=infantry
+		home=536
+	}
+	regiment = {
+		name="2nd Brunswick Infantry"
+		type=infantry
+		home=536
+	}
+	regiment = {
+		name="1st Siegen Artillery"
+		type=artillery
+		home=583
+	}
+	regiment = {
+		name="2nd Siegen Artillery"
+		type=artillery
+		home=583
+	}
+	regiment = {
+		name="5th Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="1st Osnabrück Artillery"
+		type=artillery
+		home=538
+	}
+	regiment = {
+		name="3rd Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="2nd Brunswick Artillery"
+		type=artillery
+		home=536
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2003
+	regiment = {
+		name="3rd Nienburg Infantry"
+		type=infantry
+		home=535
+	}
+	regiment = {
+		name="1st Ingolstadt Artillery"
+		type=artillery
+		home=601
+	}
+	regiment = {
+		name="6th Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="10th Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=532
+	regiment = {
+		name="1st Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="2nd Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="3rd Bayreuth Infantry"
+		type=infantry
+		home=598
+	}
+	regiment = {
+		name="2nd Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="2nd Tübingen Infantry"
+		type=infantry
+		home=591
+	}
+	regiment = {
+		name="1st Cloppenburg Artillery"
+		type=artillery
+		home=541
+	}
+	regiment = {
+		name="1st Brunswick Artillery"
+		type=artillery
+		home=536
+	}
+	regiment = {
+		name="1st Lübeck Artillery"
+		type=artillery
+		home=530
+	}
+	regiment = {
+		name="1st Dresden Artillery"
+		type=artillery
+		home=558
+	}
+	regiment = {
+		name="1st Berlin Infantry"
+		type=infantry
+		home=549
+	}
+	regiment = {
+		name="1st Göttingen Artillery"
+		type=artillery
+		home=537
+	}
+}
+
+navy = {
+	name="Ost See Squadron"
+	location=544
+	ship = {
+		name="America"
+		type=clipper_transport
+	}
+	ship = {
+		name="Elbe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Europa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hansa"
+		type=clipper_transport
+	}
+	ship = {
+		name="New York"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=540
+	ship = {
+		name="Brandenburg"
+		type=manowar
+	}
+	ship = {
+		name="Braunschweig"
+		type=manowar
+	}
+	ship = {
+		name="Carolus Secundus"
+		type=frigate
+	}
+	ship = {
+		name="Chur Prinz"
+		type=frigate
+	}
+	ship = {
+		name="Hannover"
+		type=manowar
+	}
+	ship = {
+		name="Friedrich Wilhelm zu Pferde"
+		type=frigate
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=585
+	regiment = {
+		name="3rd Brunswick Infantry"
+		type=infantry
+		home=536
+	}
+	regiment = {
+		name="1st Augsburg Infantry"
+		type=infantry
+		home=592
+	}
+	regiment = {
+		name="3rd Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Schwerin Infantry"
+		type=infantry
+		home=544
+	}
+	regiment = {
+		name="1st Fulda Infantry"
+		type=infantry
+		home=568
+	}
+	regiment = {
+		name="1st Leipzig Infantry"
+		type=infantry
+		home=559
+	}
+	regiment = {
+		name="1st Nienburg Artillery"
+		type=artillery
+		home=535
+	}
+	regiment = {
+		name="1st Magdeburg Artillery"
+		type=artillery
+		home=553
+	}
+	regiment = {
+		name="1st Hanover Infantry"
+		type=infantry
+		home=534
+	}
+	regiment = {
+		name="9th Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+}
+
+army = {
+	name="14th Army"
+	location=561
+	regiment = {
+		name="1st Lübeck Infantry"
+		type=infantry
+		home=530
+	}
+	regiment = {
+		name="2nd Lübeck Infantry"
+		type=infantry
+		home=530
+	}
+	regiment = {
+		name="4th Nienburg Infantry"
+		type=infantry
+		home=535
+	}
+	regiment = {
+		name="1st Bielefeld Infantry"
+		type=infantry
+		home=582
+	}
+	regiment = {
+		name="1st Lingen Infantry"
+		type=infantry
+		home=542
+	}
+	regiment = {
+		name="1st Dresden Cavalry"
+		type=cavalry
+		home=558
+	}
+	regiment = {
+		name="2nd Dresden Artillery"
+		type=artillery
+		home=558
+	}
+	regiment = {
+		name="7th Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="8th Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+	regiment = {
+		name="1st Bayreuth Artillery"
+		type=artillery
+		home=598
+	}
+	regiment = {
+		name="1st Osnabrück Cavalry"
+		type=cavalry
+		home=538
+	}
+	regiment = {
+		name="2nd Osnabrück Cavalry"
+		type=cavalry
+		home=538
+	}
+	regiment = {
+		name="1st Heilbronn Cavalry"
+		type=cavalry
+		home=590
+	}
+	regiment = {
+		name="3rd Osnabrück Cavalry"
+		type=cavalry
+		home=538
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2003
+	ship = {
+		name="Hela"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hermann"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hudson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Neckar"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="6th Army"
+	location=590
+	regiment = {
+		name="4th Brunswick Infantry"
+		type=infantry
+		home=536
+	}
+	regiment = {
+		name="1st Stuttgart Infantry"
+		type=infantry
+		home=589
+	}
+}
+
+army = {
+	name="Königliche Armee"
+	location=555
+	regiment = {
+		name="5th Brunswick Infantry"
+		type=infantry
+		home=536
+	}
+	regiment = {
+		name="6th Brunswick Infantry"
+		type=infantry
+		home=536
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2721
+	ship = {
+		name="Dorothea"
+		type=frigate
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1415
+	regiment = {
+		name="4th Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="2nd Hanover Artillery"
+		type=artillery
+		home=534
+	}
+	regiment = {
+		name="11th Heilbronn Artillery"
+		type=artillery
+		home=590
+	}
+}
+

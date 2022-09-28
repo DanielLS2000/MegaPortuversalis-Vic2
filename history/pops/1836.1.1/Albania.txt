@@ -1,0 +1,549 @@
+849 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 883
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 4793
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 445
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 34
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 288
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 24929
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 503
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 2133
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 198
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 15
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 14913
+	}
+
+}
+850 = {
+	soldiers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 218
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 218
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 71
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = orthodox
+		size= 21232
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = protestant
+		size= 516
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = protestant
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 18
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = protestant
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = protestant
+		size= 13941
+	}
+
+	soldiers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = morlach
+		religion = catholic
+		size= 1017
+	}
+
+	clergymen=
+	{
+		culture = morlach
+		religion = catholic
+		size= 331
+	}
+
+	bureaucrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 36
+	}
+
+	officers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = morlach
+		religion = catholic
+		size= 214
+	}
+
+	farmers=
+	{
+		culture = morlach
+		religion = catholic
+		size= 5372
+	}
+
+}
+851 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 274
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 12
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 1670
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 123
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 6
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 39
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 3394
+	}
+
+}
+852 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 101
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 444
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 144
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 9350
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 199
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 65
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 42
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 5548
+	}
+
+}
+853 = {
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 105
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 456
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 16
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = orthodox
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 9588
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = protestant
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = protestant
+		size= 204
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = protestant
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 7
+	}
+
+	officers=
+	{
+		culture = greek
+		religion = protestant
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = greek
+		religion = protestant
+		size= 43
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = protestant
+		size= 5690
+	}
+
+}

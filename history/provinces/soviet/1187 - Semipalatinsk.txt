@@ -1,0 +1,7 @@
+owner=RUS
+controller=RUS
+add_core=SHY
+add_core=TKS
+trade_goods = timber
+life_rating = 30
+fort = 1

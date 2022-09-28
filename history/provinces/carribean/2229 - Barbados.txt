@@ -1,0 +1,8 @@
+owner=ITA
+controller=ITA
+add_core=ITA
+add_core=CRB
+trade_goods = tobacco
+life_rating = 35
+terrain = new_world_plains
+naval_base = 2

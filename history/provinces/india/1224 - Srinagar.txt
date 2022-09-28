@@ -1,0 +1,6 @@
+owner=PNJ
+controller=NEP
+add_core=HND
+add_core=PNJ
+trade_goods = silk
+life_rating = 32

@@ -1,0 +1,568 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = -17
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 1
+	level = 2
+}
+ENG = {
+	value = -245
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 184
+	influence_value = 33
+	level = 4
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 12
+	level = 2
+}
+ITA = {
+	value = 1
+	level = 2
+}
+JAM = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 243
+	influence_value = 48
+	level = 4
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 67
+	influence_value = 4
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -10
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = -4
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+ZIM = {
+	value = -9
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Vikramaditya Lwemaw"
+	date="1792.3.26"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Anawrahta Monglin"
+	date="1802.5.17"
+	type=land
+	personality="disciplined"
+	background="bootlicker"
+}
+
+leader = {
+	name="Htut Thamaingkan"
+	date="1804.6.4"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Jayananda Monè"
+	date="1804.9.16"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Sithu Monglin"
+	date="1809.3.4"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="4th Army"
+	location=1339
+	regiment = {
+		name="1st Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
+	regiment = {
+		name="1st Darjeeling Irregulars"
+		type=irregular
+		home=1252
+	}
+	regiment = {
+		name="2nd Darjeeling Irregulars"
+		type=irregular
+		home=1252
+	}
+	regiment = {
+		name="1st Prome Artillery"
+		type=artillery
+		home=1337
+	}
+	regiment = {
+		name="1st Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+	regiment = {
+		name="2nd Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+	regiment = {
+		name="1st Rajshahi Artillery"
+		type=artillery
+		home=1255
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1342
+	regiment = {
+		name="1st Haka Irregulars"
+		type=irregular
+		home=1339
+	}
+	regiment = {
+		name="1st Kyaukse Irregulars"
+		type=irregular
+		home=1335
+	}
+	regiment = {
+		name="2nd Haka Irregulars"
+		type=irregular
+		home=1339
+	}
+	regiment = {
+		name="3rd Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+	regiment = {
+		name="1st Dacca Artillery"
+		type=artillery
+		home=1254
+	}
+	regiment = {
+		name="2nd Dacca Artillery"
+		type=artillery
+		home=1254
+	}
+	regiment = {
+		name="1st Dacca Irregulars"
+		type=irregular
+		home=1254
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1259
+	regiment = {
+		name="2nd Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
+	regiment = {
+		name="3rd Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
+	regiment = {
+		name="1st Imphal Irregulars"
+		type=irregular
+		home=1259
+	}
+	regiment = {
+		name="4th Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1345
+	ship = {
+		name="1st Sittwe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Sittwe Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Sittwe Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1338
+	regiment = {
+		name="4th Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
+	regiment = {
+		name="2nd Prome Artillery"
+		type=artillery
+		home=1337
+	}
+	regiment = {
+		name="1st Magwe Artillery"
+		type=artillery
+		home=1336
+	}
+	regiment = {
+		name="1st Rajshahi Irregulars"
+		type=irregular
+		home=1255
+	}
+	regiment = {
+		name="5th Darjeeling Artillery"
+		type=artillery
+		home=1252
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2796
+	ship = {
+		name="1st Chittagong Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Puerto Rico Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1345
+	ship = {
+		name="1st Sydney Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fortaleza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pegu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pegu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chittagong Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1338
+	regiment = {
+		name="1st Haka Artillery"
+		type=artillery
+		home=1339
+	}
+	regiment = {
+		name="1st Lashio Artillery"
+		type=artillery
+		home=1340
+	}
+}
+

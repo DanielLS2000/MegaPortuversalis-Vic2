@@ -1,0 +1,385 @@
+1090 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1831
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1926
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 480
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 144
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 137
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1648
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 58525
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 690
+	}
+
+}
+1091 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 560
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1800
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 44
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 672
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 16729
+	}
+
+}
+1092 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 896
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 4237
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 235
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 70
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 807
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 25452
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 245
+	}
+
+}
+1093 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 282
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 403
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 14
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 339
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 8944
+	}
+
+}
+1094 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 853
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1218
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 30
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1535
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 26522
+	}
+
+}
+1095 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 683
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 2731
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 512
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 68
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 89
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1147
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 63051
+	}
+
+}
+1096 = {
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 833
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 21
+	}
+
+	officers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 18387
+	}
+
+}

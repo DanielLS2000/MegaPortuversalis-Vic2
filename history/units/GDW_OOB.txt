@@ -1,0 +1,686 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 184
+	influence_value = 33
+	level = 4
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = -6
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = -5
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = -17
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -79
+	level = 2
+}
+EGY = {
+	value = 2
+	level = 2
+}
+ENG = {
+	value = -721
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAM = {
+	value = -3
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -10
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = -49
+	level = 2
+}
+MBL = {
+	value = 146
+	influence_value = 24
+	level = 3
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 13
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 204
+	influence_value = 38
+	level = 4
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 26
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 6
+	level = 2
+}
+SIN = {
+	value = -108
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -7
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+X25 = {
+	value = -14
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Srichandra Haihaya"
+	date="1802.3.27"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Sankaragana Raksel"
+	date="1802.4.5"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Karnadeva Raksel"
+	date="1802.4.9"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Harivarman Ballar"
+	date="1802.4.12"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Ahavamalla Shahi"
+	date="1802.10.30"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Durgasimha Haihaya"
+	date="1811.6.18"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Gajankusha Raj Gondi"
+	date="1811.6.20"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Sisupal Palamaui"
+	date="1811.7.2"
+	type=land
+	personality="resolute"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Yashkarna Chandi"
+	date="1813.10.30"
+	type=land
+	personality="chivalrous"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Hirde Raksel"
+	date="1813.12.19"
+	type=land
+	personality="resolute"
+	background="school_of_offense"
+}
+
+
+#Armies
+army = {
+	name="Grand Company"
+	location=1591
+	regiment = {
+		name="1st Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="2nd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="5th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1258
+	regiment = {
+		name="1st Allahabad Irregulars"
+		type=irregular
+		home=1243
+	}
+	regiment = {
+		name="1st Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="2nd Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="1st Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="1st Jiading Irregulars"
+		type=irregular
+		home=1580
+	}
+	regiment = {
+		name="1st Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="1st Lucknow Artillery"
+		type=artillery
+		home=1242
+	}
+	regiment = {
+		name="1st Chhatarpur Artillery"
+		type=artillery
+		home=1273
+	}
+	regiment = {
+		name="5th Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="3rd Gauhati Artillery"
+		type=artillery
+		home=1258
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1260
+	regiment = {
+		name="2nd Jiading Irregulars"
+		type=irregular
+		home=1580
+	}
+	regiment = {
+		name="3rd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Delhi Irregulars"
+		type=irregular
+		home=1236
+	}
+	regiment = {
+		name="3rd Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="1st Allahabad Artillery"
+		type=artillery
+		home=1243
+	}
+	regiment = {
+		name="1st Meerut Artillery"
+		type=artillery
+		home=1239
+	}
+	regiment = {
+		name="1st Gauhati Artillery"
+		type=artillery
+		home=1258
+	}
+	regiment = {
+		name="1st Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="1st Lucknow Irregulars"
+		type=irregular
+		home=1242
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1591
+	regiment = {
+		name="3rd Jiading Irregulars"
+		type=irregular
+		home=1580
+	}
+	regiment = {
+		name="4th Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Kegudo Artillery"
+		type=artillery
+		home=1558
+	}
+	regiment = {
+		name="1st Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="2nd Cawnpore Irregulars"
+		type=irregular
+		home=1241
+	}
+	regiment = {
+		name="2nd Kegudo Artillery"
+		type=artillery
+		home=1558
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1591
+	regiment = {
+		name="1st Raigarh Irregulars"
+		type=irregular
+		home=1282
+	}
+	regiment = {
+		name="1st Dali Artillery"
+		type=artillery
+		home=1602
+	}
+	regiment = {
+		name="2nd Dali Artillery"
+		type=artillery
+		home=1602
+	}
+	regiment = {
+		name="3rd Raigarh Irregulars"
+		type=irregular
+		home=1282
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1585
+	regiment = {
+		name="1st Bardwan Artillery"
+		type=artillery
+		home=1253
+	}
+	regiment = {
+		name="2nd Gauhati Artillery"
+		type=artillery
+		home=1258
+	}
+	regiment = {
+		name="2nd Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="1st Makhai Artillery"
+		type=artillery
+		home=1556
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1589
+	regiment = {
+		name="2nd Lucknow Artillery"
+		type=artillery
+		home=1242
+	}
+	regiment = {
+		name="3rd Lucknow Artillery"
+		type=artillery
+		home=1242
+	}
+	regiment = {
+		name="2nd Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="1st Rewa Artillery"
+		type=artillery
+		home=1274
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1585
+	regiment = {
+		name="4th Jiading Irregulars"
+		type=irregular
+		home=1580
+	}
+	regiment = {
+		name="4th Bardwan Irregulars"
+		type=irregular
+		home=1253
+	}
+	regiment = {
+		name="2nd Raigarh Irregulars"
+		type=irregular
+		home=1282
+	}
+	regiment = {
+		name="1st Agra Artillery"
+		type=artillery
+		home=1240
+	}
+	regiment = {
+		name="5th Jiading Irregulars"
+		type=irregular
+		home=1580
+	}
+	regiment = {
+		name="2nd Agra Artillery"
+		type=artillery
+		home=1240
+	}
+}
+

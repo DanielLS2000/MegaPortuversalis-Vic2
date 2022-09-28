@@ -1,0 +1,16 @@
+name = "San Jorge War for Independence"
+
+1826.5.30 = {
+	add_attacker = GCO
+	add_attacker = PEU
+	add_defender = SPA
+	add_defender = CUB
+	add_defender = SBA
+
+	war_goal = {
+		casus_belli = become_independent
+		actor = GCO
+		receiver = SPA
+		country = GCO
+	}
+}

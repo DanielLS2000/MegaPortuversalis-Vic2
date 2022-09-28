@@ -1,0 +1,7 @@
+owner=DAI
+controller=AVA
+add_core=IDO
+add_core=LNA
+add_core=SIA
+trade_goods = wool
+life_rating = 35

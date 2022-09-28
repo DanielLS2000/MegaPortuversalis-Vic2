@@ -1,0 +1,135 @@
+2190 = {
+	slaves=
+	{
+		culture = mayan
+		religion = mayan
+		size= 62
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 164
+	}
+
+	slaves=
+	{
+		culture = mayan
+		religion = catholic
+		size= 59
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = catholic
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 153
+	}
+
+	slaves=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 331
+	}
+
+	soldiers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 13
+	}
+
+	artisans=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 59
+	}
+
+	clergymen=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 26
+	}
+
+	farmers=
+	{
+		culture = french_central_america_superregion_culture
+		religion = catholic
+		size= 815
+	}
+
+}

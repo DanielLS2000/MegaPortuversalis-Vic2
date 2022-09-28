@@ -1,0 +1,659 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -15
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -15
+	level = 2
+}
+GDW = {
+	value = 0
+	level = 2
+}
+GUR = {
+	value = 0
+	level = 2
+}
+HAI = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAM = {
+	value = 0
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -15
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 73
+	influence_value = 5
+	level = 2
+}
+PER = {
+	value = 24
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = 0
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 21
+	level = 2
+}
+TRT = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -10
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 26
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = 0
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = -9
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ixzi Afrifa"
+	date="1796.7.19"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Niptasan Sribor"
+	date="1806.11.2"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Amawal Donkor"
+	date="1806.11.5"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Amawal Offei"
+	date="1821.12.20"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Urz'ig Zakari"
+	date="1821.12.21"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Buwayh Donkor"
+	date="1821.12.23"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Iher Sadami"
+	date="1821.12.26"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ixzi Zakari"
+	date="1823.1.26"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Urz'ig Donkor"
+	date="1823.2.5"
+	type=sea
+	personality="disciplined"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Amawal Akoto"
+	date="1825.12.5"
+	type=land
+	personality="resolute"
+	background="artillerist"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=1716
+	regiment = {
+		name="1st Mboul Irregulars"
+		type=irregular
+		home=2573
+	}
+	regiment = {
+		name="1st Kahone Irregulars"
+		type=irregular
+		home=1788
+	}
+	regiment = {
+		name="1st Tessalit Irregulars"
+		type=irregular
+		home=1807
+	}
+	regiment = {
+		name="1st Kano Cavalry"
+		type=cavalry
+		home=1945
+	}
+	regiment = {
+		name="1st Agades Artillery"
+		type=artillery
+		home=1812
+	}
+	regiment = {
+		name="1st Gao Artillery"
+		type=artillery
+		home=1805
+	}
+	regiment = {
+		name="1st Maradi Artillery"
+		type=artillery
+		home=1811
+	}
+	regiment = {
+		name="1st Sokoto Artillery"
+		type=artillery
+		home=1948
+	}
+	regiment = {
+		name="1st Maradi Cavalry"
+		type=cavalry
+		home=1811
+	}
+	regiment = {
+		name="1st Tessalit Cavalry"
+		type=cavalry
+		home=1807
+	}
+	regiment = {
+		name="2nd Agades Artillery"
+		type=artillery
+		home=1812
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1788
+	regiment = {
+		name="1st Fada Ngourma Irregulars"
+		type=irregular
+		home=1904
+	}
+	regiment = {
+		name="1st Sokoto Irregulars"
+		type=irregular
+		home=1948
+	}
+	regiment = {
+		name="1st Chenachene Irregulars"
+		type=irregular
+		home=1717
+	}
+	regiment = {
+		name="1st Araouane Cavalry"
+		type=cavalry
+		home=2609
+	}
+	regiment = {
+		name="1st Diourbel Artillery"
+		type=artillery
+		home=1787
+	}
+	regiment = {
+		name="2nd Gao Artillery"
+		type=artillery
+		home=1805
+	}
+	regiment = {
+		name="1st Aleg Artillery"
+		type=artillery
+		home=1777
+	}
+	regiment = {
+		name="1st Katsina Irregulars"
+		type=irregular
+		home=1947
+	}
+	regiment = {
+		name="1st Agades Cavalry"
+		type=cavalry
+		home=1812
+	}
+	regiment = {
+		name="1st Dakar Artillery"
+		type=artillery
+		home=1783
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1910
+	regiment = {
+		name="1st Araouane Irregulars"
+		type=irregular
+		home=2609
+	}
+	regiment = {
+		name="1st Bilma Irregulars"
+		type=irregular
+		home=1817
+	}
+	regiment = {
+		name="1st Ibadan Artillery"
+		type=artillery
+		home=1925
+	}
+	regiment = {
+		name="1st Kano Artillery"
+		type=artillery
+		home=1945
+	}
+	regiment = {
+		name="1st Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+	regiment = {
+		name="2nd Maradi Artillery"
+		type=artillery
+		home=1811
+	}
+	regiment = {
+		name="1st Gao Irregulars"
+		type=irregular
+		home=1805
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2573
+	ship = {
+		name="1st Freetown Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Freetown Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2920
+	ship = {
+		name="1st Freetown Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dakar Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Freetown Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2918
+	ship = {
+		name="1st Freetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Freetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Freetown Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Freetown Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1932
+	regiment = {
+		name="1st Maradi Irregulars"
+		type=irregular
+		home=1811
+	}
+	regiment = {
+		name="2nd Sokoto Irregulars"
+		type=irregular
+		home=1948
+	}
+	regiment = {
+		name="1st Aleg Irregulars"
+		type=irregular
+		home=1777
+	}
+	regiment = {
+		name="3rd Sokoto Irregulars"
+		type=irregular
+		home=1948
+	}
+	regiment = {
+		name="2nd Sokoto Artillery"
+		type=artillery
+		home=1948
+	}
+	regiment = {
+		name="2nd Bandiagara Artillery"
+		type=artillery
+		home=1804
+	}
+	regiment = {
+		name="3rd Gao Artillery"
+		type=artillery
+		home=1805
+	}
+}
+

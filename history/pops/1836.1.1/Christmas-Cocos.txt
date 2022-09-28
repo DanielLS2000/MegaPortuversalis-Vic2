@@ -1,0 +1,16 @@
+2244 = {
+	farmers=
+	{
+		culture = dynamic-anglo_saxon-welsh-culture-num1
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 4
+	}
+
+}

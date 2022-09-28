@@ -1,0 +1,603 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = -7
+	level = 2
+}
+BRY = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BYZ = {
+	value = 0
+	level = 2
+}
+CAQ = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = -3
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 26
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = -60
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DAR = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 10
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -23
+	level = 2
+}
+GDW = {
+	value = 22
+	level = 2
+}
+GUR = {
+	value = 7
+	level = 2
+}
+HAI = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+IRE = {
+	value = 0
+	level = 2
+}
+ITA = {
+	value = 0
+	level = 2
+}
+JAM = {
+	value = -1
+	level = 2
+}
+JIN = {
+	value = 0
+	level = 2
+}
+KHA = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+KIK = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KSJ = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+KZB = {
+	value = 0
+	level = 2
+}
+LBA = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOT = {
+	value = 200
+	military_access = yes
+	influence_value = 37
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MBL = {
+	value = 0
+	level = 2
+}
+MEW = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = -13
+	level = 2
+}
+MIR = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MYS = {
+	value = 0
+	level = 2
+}
+NAP = {
+	value = 0
+	level = 2
+}
+NEP = {
+	value = 0
+	level = 2
+}
+NNG = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+OMA = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+PTA = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SBA = {
+	value = 0
+	level = 2
+}
+SCA = {
+	value = 0
+	level = 2
+}
+SIN = {
+	value = -2
+	level = 2
+}
+SKA = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+TBK = {
+	value = 0
+	level = 2
+}
+TRT = {
+	value = -12
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TYO = {
+	value = 20
+	level = 2
+}
+USA = {
+	value = -22
+	level = 2
+}
+VNZ = {
+	value = 0
+	level = 2
+}
+X00 = {
+	value = 0
+	level = 2
+}
+X01 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X13 = {
+	value = 0
+	level = 2
+}
+X14 = {
+	value = 0
+	level = 2
+}
+X17 = {
+	value = 0
+	level = 2
+}
+X23 = {
+	value = 0
+	level = 2
+}
+X25 = {
+	value = -7
+	level = 2
+}
+X26 = {
+	value = 0
+	level = 2
+}
+YAN = {
+	value = 0
+	level = 2
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Guy de Châlon"
+	date="1811.6.26"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="P0pin de Chabot"
+	date="1817.10.17"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Denis de Vienne"
+	date="1817.10.20"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+
+#Armies
+army = {
+	name="2nd Army"
+	location=2232
+	regiment = {
+		name="1st Santo Domingo Infantry"
+		type=infantry
+		home=2214
+	}
+	regiment = {
+		name="1st Santo Domingo Cavalry"
+		type=cavalry
+		home=2214
+	}
+	regiment = {
+		name="1st La Vega Artillery"
+		type=artillery
+		home=2216
+	}
+	regiment = {
+		name="2nd La Vega Cavalry"
+		type=cavalry
+		home=2216
+	}
+	regiment = {
+		name="2nd Cap Haitien Artillery"
+		type=artillery
+		home=2215
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2216
+	regiment = {
+		name="1st Port Au Prince Infantry"
+		type=infantry
+		home=2213
+	}
+	regiment = {
+		name="1st Cap Haitien Infantry"
+		type=infantry
+		home=2215
+	}
+	regiment = {
+		name="1st La Vega Cavalry"
+		type=cavalry
+		home=2216
+	}
+	regiment = {
+		name="1st Cap Haitien Artillery"
+		type=artillery
+		home=2215
+	}
+	regiment = {
+		name="1st La Vega Infantry"
+		type=infantry
+		home=2216
+	}
+	regiment = {
+		name="2nd La Vega Artillery"
+		type=artillery
+		home=2216
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2974
+	ship = {
+		name="Haiti"
+		type=frigate
+	}
+	ship = {
+		name="Napoleon"
+		type=frigate
+	}
+	ship = {
+		name="Toussaint Louverture"
+		type=frigate
+	}
+	ship = {
+		name="Port au Prince"
+		type=frigate
+	}
+	ship = {
+		name="4th Cap Haitien Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2980
+	ship = {
+		name="Jérémie"
+		type=frigate
+	}
+	ship = {
+		name="Port Sali"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2965
+	ship = {
+		name="Cap Haitien"
+		type=frigate
+	}
+	ship = {
+		name="Port de Paix"
+		type=frigate
+	}
+	ship = {
+		name="2nd Saint Lucia Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2213
+	ship = {
+		name="Jean Rabel"
+		type=manowar
+	}
+	ship = {
+		name="Baron Samedi"
+		type=manowar
+	}
+	ship = {
+		name="Calypso"
+		type=manowar
+	}
+	ship = {
+		name="Reine Mojo"
+		type=manowar
+	}
+	ship = {
+		name="Baka"
+		type=manowar
+	}
+	ship = {
+		name="4th Port Au Prince Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2232
+	ship = {
+		name="1st Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cap Haitien Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cap Haitien Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st La Vega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Dominica Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Port Au Prince Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Cap Haitien Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2922
+	ship = {
+		name="Odu Bodagris"
+		type=frigate
+	}
+	ship = {
+		name="Dambala"
+		type=frigate
+	}
+}
+

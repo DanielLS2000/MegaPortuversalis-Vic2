@@ -1,0 +1,291 @@
+251 = {
+	soldiers=
+	{
+		culture = inuit
+		religion = animist
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 69
+	}
+
+	soldiers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = protestant
+		size= 97
+	}
+
+	soldiers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = french_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = french_north_america_superregion_culture
+		religion = catholic
+		size= 6
+	}
+
+	clergymen=
+	{
+		culture = french_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = french_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = french_north_america_superregion_culture
+		religion = catholic
+		size= 283
+	}
+
+	artisans=
+	{
+		culture = french_north_america_superregion_culture
+		religion = protestant
+		size= 8
+	}
+
+	clergymen=
+	{
+		culture = french_north_america_superregion_culture
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = french_north_america_superregion_culture
+		religion = protestant
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = french_north_america_superregion_culture
+		religion = protestant
+		size= 43
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 32
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 12
+	}
+
+	officers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 14
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 427
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 71
+	}
+
+}
+2636 = {
+	farmers=
+	{
+		culture = inuit
+		religion = animist
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = british_north_america_superregion_culture
+		religion = protestant
+		size= 34
+	}
+
+	soldiers=
+	{
+		culture = french_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = french_north_america_superregion_culture
+		religion = catholic
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = french_north_america_superregion_culture
+		religion = catholic
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = french_north_america_superregion_culture
+		religion = protestant
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = french_north_america_superregion_culture
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = french_north_america_superregion_culture
+		religion = protestant
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = french_north_america_superregion_culture
+		religion = protestant
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 2
+	}
+
+	artisans=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 12
+	}
+
+	clergymen=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 4
+	}
+
+	aristocrats=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = protestant
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = vinlander
+		religion = catholic
+		size= 25
+	}
+
+}

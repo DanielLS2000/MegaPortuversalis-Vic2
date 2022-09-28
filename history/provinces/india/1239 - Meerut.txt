@@ -1,0 +1,6 @@
+owner=GDW
+controller=GDW
+add_core=GDW
+add_core=NEP
+trade_goods = grain
+life_rating = 32
