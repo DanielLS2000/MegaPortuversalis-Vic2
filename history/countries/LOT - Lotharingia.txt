@@ -1,6 +1,7 @@
 capital = 576
 primary_culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
 culture = dynamic-swabian-culture-num1
+culture = flemish
 culture = zzz_religion_protestant
 religion = protestant
 government = absolute_monarchy
