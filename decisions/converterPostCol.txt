@@ -291,6 +291,10 @@ political_decisions = {
 			2409 = { add_core = STV } #Saint Vincent and the Grenadines
 			#Further addictions
 			ARG_2355 = { add_core = SBA } #Buenos Aires
+			
+			##### Cores Adicionais #####
+
+			############################
 			set_global_flag = der_postcolonialism
 			#Ensuring correct cultures if released
 			any_country = { limit = { tag = QUE	 NOT = { exists = QUE } } set_country_flag = buro_independence }
