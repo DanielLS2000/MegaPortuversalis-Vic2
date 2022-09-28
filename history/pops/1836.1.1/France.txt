@@ -1595,98 +1595,98 @@
 412 = {
 	soldiers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 3633
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 5305
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 473
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 55
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 113
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 491
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = catholic
 		size= 69480
 	}
 
 	soldiers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 1012
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 1700
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 152
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 17
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 36
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 157
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = dynamic-swabian-culture-num1
 		religion = protestant
 		size= 19084
 	}
