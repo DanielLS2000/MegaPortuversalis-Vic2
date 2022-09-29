@@ -1,7 +1,7 @@
 capital = 2463
-primary_culture = germanic_andes_superregion_culture
+primary_culture = germanic_south_america_superregion_culture
 culture = dynamic-dutch-franconian-cosmopolitan_french-culture-num2
-culture = germanic_south_america_superregion_culture
+culture = germanic_andes_superregion_culture
 culture = zzz_religion_protestant
 religion = protestant
 government = democracy
