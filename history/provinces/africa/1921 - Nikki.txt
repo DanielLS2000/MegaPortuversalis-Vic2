@@ -1,6 +1,2 @@
-owner=GUR
-controller=GUR
-add_core=GUR
 trade_goods = grain
 life_rating = 32
-fort = 1

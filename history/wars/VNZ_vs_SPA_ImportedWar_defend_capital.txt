@@ -13,4 +13,16 @@ name = "San Jorge War for Independence"
 		receiver = SPA
 		country = GCO
 	}
+	war_goal = {
+		casus_belli = make_puppet
+		actor = SPA
+		receiver = GCO
+		country = SPA
+	}
+	war_goal = {
+		casus_belli = make_puppet
+		actor = SPA
+		receiver = PEU
+		country = SPA
+	}
 }

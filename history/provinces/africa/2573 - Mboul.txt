@@ -1,7 +1,3 @@
-owner=GUR
-controller=GUR
-add_core=GUR
 trade_goods = coal
 life_rating = 35
 terrain = semidesert
-fort = 1

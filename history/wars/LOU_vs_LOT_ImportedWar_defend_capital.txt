@@ -13,4 +13,10 @@ name = "Rattonsburg War for Independence"
 		receiver = LOT
 		country = LOU
 	}
+	war_goal = {
+		casus_belli = make_puppet
+		actor = LOT
+		receiver = LOU
+		country = LOT
+	}
 }

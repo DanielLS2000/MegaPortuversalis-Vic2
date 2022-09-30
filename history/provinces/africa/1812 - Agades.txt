@@ -1,6 +1,2 @@
-owner=GUR
-controller=GUR
-add_core=GUR
 trade_goods = wool
 life_rating = 5
-fort = 1

@@ -16,4 +16,10 @@ name = "Avalon War for Independence"
 		receiver = ENG
 		country = USA
 	}
+	war_goal = {
+		casus_belli = make_puppet
+		actor = ENG
+		receiver = USA
+		country = ENG
+	}
 }

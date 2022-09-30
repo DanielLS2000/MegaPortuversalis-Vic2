@@ -1,6 +1,2 @@
-owner=GUR
-controller=GUR
-add_core=GUR
 trade_goods = fruit
 life_rating = 35
-fort = 1
