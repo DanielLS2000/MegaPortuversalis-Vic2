@@ -1,0 +1,23 @@
+  slavic_cultures = {
+  		potential = {
+  			tag = ITA
+  			NOT = { has_country_flag = my_catholic_brother }
+  		}
+  		allow = {
+  			war = no
+  			OR = {
+  				citizens_rights = culture_voting_only
+  				citizens_rights = all_voting_pops
+  			}
+  			nationalism_n_imperialism = 1
+  			owns = 768
+        owns = 771
+  		}
+  		effect = {
+  			set_country_flag = my_catholic_brother
+  			prestige = 10
+  			add_accepted_culture = slovene
+        add_accepted_culture = croatian
+        add_accepted_culture = bosniak
+  		}
+  	}
