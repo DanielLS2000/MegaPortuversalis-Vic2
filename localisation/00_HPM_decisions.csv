@@ -1997,3 +1997,5 @@ will_give_title;Enable giving grants;;;;;;;;;;;;;
 will_give_desc;Allow giving money to foreign countries..;;;;;;;;;;;;;
 will_not_give_title;Turn off grants;;;;;;;;;;;;;
 will_not_give_desc;Disallow giving money to foreign countries.;;;;;;;;;;;;;
+slavic_cultures_title;Integrate the South Slavs;;;;;;;;;;;;;
+slavic_cultures_desc;They have strong cultural ties to us and have adapted to the italian way of living, its time to integrate them to the State.;;;;;;;;;;;;;
