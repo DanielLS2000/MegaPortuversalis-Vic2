@@ -1537,49 +1537,49 @@
 883 = {
 	soldiers=
 	{
-		culture = dynamic-greek-al_suryah_arabic-culture-num1
+		culture = greek
 		religion = orthodox
 		size= 998
 	}
 
 	artisans=
 	{
-		culture = dynamic-greek-al_suryah_arabic-culture-num1
+		culture = greek
 		religion = orthodox
 		size= 6983
 	}
 
 	clergymen=
 	{
-		culture = dynamic-greek-al_suryah_arabic-culture-num1
+		culture = greek
 		religion = orthodox
 		size= 748
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-greek-al_suryah_arabic-culture-num1
+		culture = greek
 		religion = orthodox
 		size= 90
 	}
 
 	officers=
 	{
-		culture = dynamic-greek-al_suryah_arabic-culture-num1
+		culture = greek
 		religion = orthodox
 		size= 40
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-greek-al_suryah_arabic-culture-num1
+		culture = greek
 		religion = orthodox
 		size= 628
 	}
 
 	farmers=
 	{
-		culture = dynamic-greek-al_suryah_arabic-culture-num1
+		culture = greek
 		religion = orthodox
 		size= 40391
 	}

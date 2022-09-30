@@ -1,5 +1,6 @@
 capital = 1745
 primary_culture = dynamic-franconian-russian_culture-culture-num1
+culture = jerusalemer
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

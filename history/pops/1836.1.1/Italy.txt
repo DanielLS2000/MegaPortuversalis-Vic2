@@ -2184,49 +2184,49 @@
 735 = {
 	soldiers=
 	{
-		culture = dynamic-bavarian-italian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 1033
 	}
 
 	artisans=
 	{
-		culture = dynamic-bavarian-italian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 3336
 	}
 
 	clergymen=
 	{
-		culture = dynamic-bavarian-italian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 357
 	}
 
 	bureaucrats=
 	{
-		culture = dynamic-bavarian-italian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 67
 	}
 
 	officers=
 	{
-		culture = dynamic-bavarian-italian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 50
 	}
 
 	aristocrats=
 	{
-		culture = dynamic-bavarian-italian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 400
 	}
 
 	farmers=
 	{
-		culture = dynamic-bavarian-italian-culture-num1
+		culture = south_german
 		religion = catholic
 		size= 18588
 	}
