@@ -2830,13 +2830,8 @@ political_decisions = {
 			prestige = 45
 			is_greater_power = yes
 			war = no
-			#Duchy of Genoa
-			724 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			725 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			#Duchy of Romagna
 			PAP_741 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			#Duchy of Venice
-			729 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			#Duchy of Lazio
 			749 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			750 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
@@ -2846,31 +2841,16 @@ political_decisions = {
 			#Duchy of Apulia
 			756 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			758 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			#Duchy of Tunis
-			TUN_1726 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			#Duchy of Sicily
 			SIC_763 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			#Duchy of Dalmatia
-			AUS_780 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			781 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			774 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			773 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			#Duchy of Thrace
 			TUR_860 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			#Duchy of Hellas
 			834 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			835 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			#Duchy of Alexandria
-			EGY_1758 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			1751 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			1747 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			#Duchy of Jerusalem
 			916 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			917 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 			918 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			#Duchy of Antioch
-			900 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
-			897 = { OR = { owned_by = THIS owner = { in_sphere = THIS } } }
 		}
 		
 		effect = {
@@ -2884,6 +2864,8 @@ political_decisions = {
 			change_tag = SPQ
 			capital = 749
 			add_accepted_culture = latin
+			add_accepted_culture = south_italian
+			add_accepted_culture = north_italian
 			add_accepted_culture = greek #Byzantines
 			any_country = {
 				limit = {
