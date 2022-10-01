@@ -1,5 +1,5 @@
-capital = 619
-primary_culture = south_german
+capital = 625
+primary_culture = dynamic-czech-saxon-culture-num1
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy
