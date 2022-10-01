@@ -1,5 +1,5 @@
 political_decisions = {
-    enact_dual_monarchy = {
+    form_danubian_federation = {
         potential = {
             tag = BOH
             OR = {
