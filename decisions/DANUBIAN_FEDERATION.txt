@@ -88,4 +88,66 @@ political_decisions = {
             }
         }
     }
+
+    integrate_romanians = {
+		potential = {
+			tag = DNB
+			NOT = { has_country_flag = integrated_rom }
+			NOT = { has_country_flag = integrated_pol }
+		}
+
+		allow = {
+		empiricism = 1 
+			all_core = {
+				owned_by = THIS
+			}
+	 
+		}
+
+		effect = { 
+		 badboy = 10
+		 add_accepted_culture = romanian
+		 add_accepted_culture = szekely
+		 set_country_flag = integrated_rom
+			ROM = {
+				all_core = {
+					add_core = DNB
+				}
+			}
+			SIE = {
+				all_core = {
+					add_core = DNB
+				}
+			}			
+		}
+	}
+
+    integrate_poles = {
+		potential = {
+			tag = DNB
+			NOT = { has_country_flag = integrated_rom }
+			NOT = { has_country_flag = integrated_pol }
+		}
+
+		allow = {
+		owns = 706
+		owns = 682
+		empiricism = 1 
+			all_core = {
+				owned_by = THIS
+			}
+	 
+		}
+
+		effect = { 
+		 badboy = 10
+		 add_accepted_culture = polish
+		 set_country_flag = integrated_pol
+			ROM = {
+				all_core = {
+					add_core = DNB
+				}
+			}		
+		}
+	}
 }
