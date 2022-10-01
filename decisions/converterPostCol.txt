@@ -59,37 +59,37 @@ political_decisions = {
 			}
 			USA_232 = { add_core = MAN } #Manhattan
 			TEX_132 = { add_core = TEX } #Texas
-			USA_118 = { add_core = USA } #USA
-			USA_121 = { add_core = USA }
-			USA_124 = { add_core = USA }
-			USA_126 = { add_core = USA }
-			USA_129 = { add_core = USA }
-			USA_139 = { add_core = USA }
-			USA_144 = { add_core = USA }
-			USA_148 = { add_core = USA }
-			USA_151 = { add_core = USA }
-			USA_158 = { add_core = USA }
-			USA_162 = { add_core = USA }
-			USA_168 = { add_core = USA }
-			USA_170 = { add_core = USA }
-			USA_176 = { add_core = USA }
-			USA_178 = { add_core = USA }
-			USA_185 = { add_core = USA }
-			USA_188 = { add_core = USA }
-			USA_194 = { add_core = USA }
-			USA_196 = { add_core = USA }
-			USA_200 = { add_core = USA }
-			USA_201 = { add_core = USA }
-			USA_211 = { add_core = USA }
-			USA_218 = { add_core = USA }
-			USA_219 = { add_core = USA }
-			USA_219 = { add_core = USA }
-			USA_223 = { add_core = USA }
-			USA_231 = { add_core = USA }
-			USA_232 = { add_core = USA }
-			USA_243 = { add_core = USA }
-			USA_247 = { add_core = USA }
-			USA_2556 = { add_core = USA }
+			#USA_118 = { add_core = USA } #USA
+			#USA_121 = { add_core = USA }
+			#USA_124 = { add_core = USA }
+			#USA_126 = { add_core = USA }
+			#USA_129 = { add_core = USA }
+			#USA_139 = { add_core = USA }
+			#USA_144 = { add_core = USA }
+			#USA_148 = { add_core = USA }
+			#USA_151 = { add_core = USA }
+			#USA_158 = { add_core = USA }
+			#USA_162 = { add_core = USA }
+			#USA_168 = { add_core = USA }
+			#USA_170 = { add_core = USA }
+			#USA_176 = { add_core = USA }
+			#USA_178 = { add_core = USA }
+			#USA_185 = { add_core = USA }
+			#USA_188 = { add_core = USA }
+			#USA_194 = { add_core = USA }
+			#USA_196 = { add_core = USA }
+			#USA_200 = { add_core = USA }
+			#USA_201 = { add_core = USA }
+			#USA_211 = { add_core = USA }
+			#USA_218 = { add_core = USA }
+			#USA_219 = { add_core = USA }
+			#USA_219 = { add_core = USA }
+			#USA_223 = { add_core = USA }
+			#USA_231 = { add_core = USA }
+			#USA_232 = { add_core = USA }
+			#USA_243 = { add_core = USA }
+			#USA_247 = { add_core = USA }
+			#USA_2556 = { add_core = USA }
 			USA_129 = { add_core = CSA } #Dixieland for the ACW
 			TEX_132 = { add_core = CSA }
 			USA_139 = { add_core = CSA }
