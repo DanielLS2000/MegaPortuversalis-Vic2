@@ -5,7 +5,7 @@ religion = catholic
 government = prussian_constitutionalism
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.550232
+literacy = 0.70
 
 civilized = yes
 
