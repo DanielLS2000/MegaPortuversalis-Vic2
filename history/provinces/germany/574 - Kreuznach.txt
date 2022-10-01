@@ -1,5 +1,6 @@
 owner=LOT
 controller=LOT
 add_core=LOT
+add_core=GER
 trade_goods = iron
 life_rating = 40
