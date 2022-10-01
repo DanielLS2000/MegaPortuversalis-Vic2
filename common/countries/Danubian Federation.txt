@@ -2,14 +2,14 @@ graphical_culture = AustriaHungaryGC
 color = { 232 75 56 }
 
 party = {
-	name = "AUS_conservative"
+	name = "BOH_conservative"
 	start_date = 1000.1.1
-	end_date = 1848.1.1
+	end_date = 2000.1.1
 
 	ideology = conservative
 
 	citizenship_policy = residency
-	economic_policy = interventionism
+	economic_policy = state_capitalism
 	religious_policy = moralism
 	social_policy = no_position_set
 	trade_policy = protectionism
@@ -17,187 +17,37 @@ party = {
 }
 
 party = {
-	name = "AUS_conservative_2"
-	start_date = 1836.1.1
-	end_date = 1848.1.1
-
-	ideology = conservative
-
-	citizenship_policy = residency
-	economic_policy = laissez_faire
-	religious_policy = pluralism
-	social_policy = no_position_set
-	trade_policy = protectionism
-	war_policy = pro_military
-}
-
-party = {
-	name = "AUS_reactionary"
-	start_date = 1790.1.1
-	end_date = 1867.1.1
-
-	ideology = reactionary
-
-	citizenship_policy = residency
-	economic_policy = state_capitalism
-	religious_policy = pluralism
-	social_policy = no_position_set
-	trade_policy = protectionism
-	war_policy = jingoism
-}
-
-party = {
-	name = "AUS_socialist"
-	start_date = 1848.1.1
-	end_date = 1867.1.1
-
-	ideology = socialist
-
-	citizenship_policy = limited_citizenship
-	economic_policy = interventionism
-	religious_policy = secularized
-	social_policy = welfare_state
-	trade_policy = free_trade
-	war_policy = anti_military
-}
-
-party = {
-	name = "AUS_liberal"
+	name = "BOH_liberal"
 	start_date = 1680.1.1
-	end_date = 1867.1.1
-
-	ideology = liberal
-
-	citizenship_policy = full_citizenship
-	economic_policy = interventionism
-	religious_policy = secularized
-	social_policy = no_position_set
-	trade_policy = free_trade
-	war_policy = anti_military
-}
-
-party = {
-	name = "AUS_conservative_3"
-	start_date = 1848.1.1
-	end_date = 1867.1.1
-
-	ideology = conservative
-
-	citizenship_policy = residency
-	economic_policy = interventionism
-	religious_policy = pluralism
-	social_policy = no_position_set
-	trade_policy = protectionism
-	war_policy = pro_military
-}
-
-party = {
-	name = "AUS_conservative_4"
-	start_date = 1867.1.1
-	end_date = 1879.1.1
-
-	ideology = conservative
-
-	citizenship_policy = residency
-	economic_policy = interventionism
-	religious_policy = moralism
-	social_policy = no_position_set
-	trade_policy = protectionism
-	war_policy = jingoism
-}
-
-party = {
-	name = "AUS_socialist_2"
-	start_date = 1867.1.1
-	end_date = 1900.1.1
-
-	ideology = socialist
-
-	citizenship_policy = full_citizenship
-	economic_policy = state_capitalism
-	religious_policy = secularized
-	social_policy = welfare_state
-	trade_policy = protectionism
-	war_policy = pacifism
-}
-
-party = {
-	name = "AUS_reactionary_2"
-	start_date = 1867.1.1
-	end_date = 2000.1.1
-
-	ideology = reactionary
-
-	citizenship_policy = limited_citizenship
-	economic_policy = interventionism
-	religious_policy = pluralism
-	social_policy = no_position_set
-	trade_policy = protectionism
-	war_policy = jingoism
-}
-
-party = {
-	name = "AUS_conservative_5"
-	start_date = 1879.1.1
-	end_date = 2000.1.1
-
-	ideology = conservative
-
-	citizenship_policy = residency
-	economic_policy = interventionism
-	religious_policy = moralism
-	social_policy = no_position_set
-	trade_policy = protectionism
-	war_policy = pro_military
-}
-
-party = {
-	name = "AUS_liberal_2"
-	start_date = 1867.1.1
-	end_date = 2000.1.1
+	end_date = 1936.1.1
 
 	ideology = liberal
 
 	citizenship_policy = full_citizenship
 	economic_policy = laissez_faire
-	religious_policy = secularized
+	religious_policy = pluralism
 	social_policy = no_position_set
-	trade_policy = free_trade
-	war_policy = anti_military
-}
-
-party = {
-	name = "AUS_communist"
-	start_date = 1848.1.1
-	end_date = 2000.1.1
-
-	ideology = communist
-
-	citizenship_policy = full_citizenship
-	economic_policy = planned_economy
-	religious_policy = pro_atheism
-	social_policy = populist_welfare
 	trade_policy = protectionism
 	war_policy = pacifism
 }
 
 party = {
-	name = "AUS_socialist_3"
-	start_date = 1900.1.1
+	name = "BOH_reactionary"
+	start_date = 1790.1.1
 	end_date = 2000.1.1
 
-	ideology = socialist
+	ideology = reactionary
 
-	citizenship_policy = full_citizenship
+	citizenship_policy = residency
 	economic_policy = state_capitalism
-	religious_policy = secularized
-	social_policy = welfare_state
+	religious_policy = moralism
+	social_policy = no_position_set
 	trade_policy = protectionism
-	war_policy = pacifism
+	war_policy = jingoism
 }
 
 party = {
-	name = "AUS_anarcho_liberal"
+	name = "BOH_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -212,7 +62,37 @@ party = {
 }
 
 party = {
-	name = "AUS_fascist"
+	name = "BOH_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = secularized
+	social_policy = welfare_state
+	trade_policy = protectionism
+	war_policy = anti_military
+}
+
+party = {
+	name = "BOH_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	citizenship_policy = full_citizenship
+	economic_policy = planned_economy
+	religious_policy = pro_atheism
+	social_policy = populist_welfare
+	trade_policy = protectionism
+	war_policy = pro_military
+}
+
+party = {
+	name = "BOH_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 
@@ -228,33 +108,33 @@ party = {
 
 unit_names = {
 	dreadnought = {
-		"Kaiser Max" "Don Juan D'Austria" Austria Hungary Budapest Wien Praha "Erz. Karl" "Erz. Ferndinand Max" "Erz. Friedrich" "K. Erz. Stephanie" "K. Erz. Rudolf" "Szent L·szlÛ" Monarch Arpad Babenburg Custoza "Kaiser Franz I" "Kaiser Karl V" "Kaiser Franz Joseph II" "Kaiserin Maria Theresia" "Erz. Franz Ferdinand" Radetzky Zrinyi "Viribis Unitis" Tegetthoff "Prinz Eugen" "Prinz Metternich" "Szent Istvan"
+		"Jan Hus" "Karel IV" "Prokop Velik√Ω" "Jan ≈Ωi≈æka" "Josef Ressel"
 	}
 	battleship = {
-		Habsburg ¡rp·d Babenburg "Erzherzog Karl" "Erzherzog Friedrich" "Erzherzog Ferdinand Max" "Erzherzog Franz Ferdinand" Radetzky ZrÌnyi
+		
 	}
 	ironclad = {
-		Hum Trabant Taurus Vesta Dalmat Cam‰lion Kopernik Drach Salamander Aquila Sterneck "Principesse Augusta" Maros Leitha Szamos Kˆrˆs RÈka G‰a Gigant
+		Praha Brno Ostrava Plzen Liberec
 	}
 	manowar = {
-		Habsburg "Viribus Unitis" "Ferdinand Max" Aquila Montecuccoli Sterneck "Kaiserin Maria Theresia" Radetzky
+		Mile≈°ovka Lovos Hazmburk Ko≈°t√°lov "Cesk√© Stredohor√≠"
 	}
 	cruiser = {
-		Habsburg "Kaiser Karl IV" "Sankt Georg" "Admiral Spaun" Saida Helgoland Novara Donau Laudon Minerva Tiger Leopold Panther Csepel Dukla Kaiman Zenta Szigetv·r Aspern Boa Pluto Zenta Uzsok Ulan Warasdiner Streiter Schrafschutze Wildfang Hˆchst‰dt Schwarzenberg Frundsberg "Kaiserin Elizabeth" "Kaiser Franz Joseph I" Aurora Inn Pola Triest Lissa Tatra Triglav Balaton Csepel Husz·r
+		Jizera Metuje Morava Svratka Olza
 	}
 	frigate = {
-		Guerriera Bellona Medea Venus "Admiral Spaun" "Kaiserin Elisabeth" Saida "Sankt Georg" Austria Schwarzenberg Aurora Donau Inn Pola Triest
+		"Jan Dismas Zelenka" "≈†imon Brixi" "Franti≈°ek Tuma" "Anton√≠n Kraft" "Franti≈°ek Xaver Du≈°ek"
 	}
 	monitor = {
-		"Principesse Augusta" Maros Leitha Szamos Kˆrˆs RÈka G‰a Gigant Hum Trabant Taurus Vesta Dalmat Cam‰lion Kopernik Drach Salamander Aquila Sterneck
+		"Petr Brandl" "V√°clav Hollar" "Jan Jahn" "Jan Kupeck√Ω" "Karel ≈†kr√©ta"
 	}
 	clipper_transport = {
-		"1. Klipperflottille" "2. Klipperflottille" "3. Klipperflottille" "4. Klipperflottille" "5. Klipperflottille" "6. Klipperflottille" "7. Klipperflottille" "8. Klipperflottille" "9. Klipperflottille" "10. Klipperflottille"
+		
 	}
 	steam_transport = {
 		
 	}
 	commerce_raider = {
-		Novara Schwarzenberg Helgoland Frundsberg Aurora Saida Nautilus Albatros Donau Lacroma Lika "Principesse Augusta" Austria Saida "Maria Theresia" Hˆchst‰dt Falke Adler Delphin
+		"Pra≈æsk√Ω hrad" Vy≈°ehrad Zbraslav Kolodeje Chvaly
 	}
 }
