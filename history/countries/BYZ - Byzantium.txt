@@ -5,7 +5,7 @@ religion = orthodox
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
-literacy = 0.462195
+literacy = 0.654
 
 civilized = yes
 
