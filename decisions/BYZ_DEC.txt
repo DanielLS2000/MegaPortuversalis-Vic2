@@ -1,0 +1,89 @@
+  political_decisions = {
+  orthobros = {
+  		potential = {
+  			tag = BYZ
+  			NOT = { has_country_flag = my_orthodox_brother }
+  		}
+  		allow = {
+  			war = no
+  			OR = {
+  				citizens_rights = culture_voting_only
+  				citizens_rights = all_voting_pops
+  			}
+  			nationalism_n_imperialism = 1
+  			owns = 809
+        owns = 888
+  		}
+  		effect = {
+  			set_country_flag = my_orthodox_brother
+  			prestige = 10
+  		add_accepted_culture = armenian
+        add_accepted_culture = macedonian
+        add_accepted_culture = bulgarian
+        add_accepted_culture = morlach
+        MRL = {
+            all_core = {
+                add_core = BYZ
+            }
+        }
+        ARM = {
+            all_core = {
+                add_core = BYZ
+            }
+        }
+  		
+  	}
+}
+
+
+      triunfo_arabia = {
+        potential = {
+            tag = BYZ
+            NOT = { has_country_flag = trinfo_na_arabia }
+        }
+        allow = {
+            war = no
+            owns = 902
+      owns = 917
+        }
+        effect = {
+            set_country_flag = triunfo_na_arabia
+            prestige = 30
+      IRQ = {
+          all_core = {
+              add_core = BYZ
+            }
+        }
+      SRN = {
+          all_core = {
+              add_core = BYZ
+            }
+        }
+      SYR = {
+          all_core = {
+              add_core = BYZ
+            }
+        }
+    }
+} 
+
+triunfo_iliria = {
+    potential = {
+        tag = BYZ
+        NOT = { has_country_flag = trinfo_na_iliria }
+    }
+    allow = {
+        war = no
+        owns = 768
+  owns = 771
+    }
+    effect = {
+        set_country_flag = triunfo_na_iliria
+        prestige = 30
+  YUG = {
+      all_core = {
+          add_core = BYZ
+     }
+        }
+    }
+} 
